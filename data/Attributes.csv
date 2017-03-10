@@ -1,0 +1,824 @@
+Entity,BiType,Type,Shape,Color,Type.Name,Grouped.Sectors,Date of Proj Inception,Date of Proj Completion,Project.Age,Geographic Level, Organization,None,All counties,Alameda,Contra Costa,Marin,Napa,San Francisco,San Mateo,Santa Clara,Solano,Sonoma,Online Only,Sum Counties,Classified,Spatial Scale
+1100Resilient,1,11,3,,NGO,Non-Government,,,,,100 Resilient Cities,,1,,,,,,,,,,,9,1,9
+1350org,1,11,3,,NGO,Non-Government,,,,,350.org,,,1,1,1,1,1,1,1,1,1,,9,1,9
+13D Visions,1,9,3,,Industry,Non-Government,,,,,3D Visions,,,,,,,,,,,,1,0,1,0
+1ABAG,1,10,3,,Consortium,Local Government,,,,,Association of Bay Area Governments,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1ACMAD,1,5,3,,Environmental Districts,Local Government,,,,,Alameda County Mosquito Abatement District,,,1,,,,,,,,,,1,1,1
+1Acterra,1,11,3,,NGO,Non-Government,,,,,Acterra,,,1,,1,,1,1,1,,,,5,1,5
+1ACWD,1,6,3,,Water Districts,Local Government,,,,,Alameda County Water District,,,1,,,,,,,,,,1,1,1
+1AECOM,1,8,3,,Consultants,Non-Government,,,,,AECOM,,1,,,,,,,,,,,9,1,9
+1AGS,1,9,3,,Industry,Non-Government,,,,,"AGS, Inc.",,,1,,,,1,,,,,,2,1,2
+1AlamedaBT,1,15,3,,Other,Non-Government,,,,,Alameda County Building Trades,,,1,,,,,,,,,,1,1,1
+1AlamedaCDA,1,2,3,,Government-County,Government-County,,,,,Alameda County Community Development Agency,,,1,,,,,,,,,,1,1,1
+1AlamedaCTC,1,2,3,,Government-County,Government-County,,,,,Alameda County Transportation Commission,,,1,,,,,,,,,,1,1,1
+1AlamedaDEH,1,2,3,,Government-County,Government-County,,,,,Alameda County Department of Environmental Health,,,1,,,,,,,,,,1,1,1
+1AlamedaDPH,1,2,3,,Government-County,Government-County,,,,,Alameda County Department of Public Health,,,1,,,,,,,,,,1,1,1
+1AlamedaEMS,1,2,3,,Government-County,Government-County,,,,,Alameda County Emergency Medical Services,,,1,,,,,,,,,,1,1,1
+1AlamedaFire,1,2,3,,Government-County,Government-County,,,,,Alameda County Fire Dept.,,,1,,,,,,,,,,1,1,1
+1AlamedaFlood,1,6,3,,Water Districts,Local Government,,,,,Alameda County Flood Control and Water Conservation District,,,1,,,,,,,,,,1,1,1
+1AlamedaGSA,1,2,3,,Government-County,Government-County,,,,,Alameda County General Services Agency,,,1,,,,,,,,,,1,1,1
+1AlamedaPW,1,2,3,,Government-County,Government-County,,,,,Alameda County Public Works Agency,,,1,,,,,,,,,,1,1,1
+1AlamedaSH,1,2,3,,Government-County,Government-County,,,,,Alameda County Sheriff,,,1,,,,,,,,,,1,1,1
+1AlamedaTrans,1,2,3,,Government-County,Government-County,,,,,Alameda County Transit,,,1,,,,,,,,,,1,1,1
+1AlamedaWIB,1,2,3,,Government-County,Government-County,,,,,Alameda County WIB,,,1,,,,,,,,,,1,1,1
+1AmeriRivers,1,11,3,,NGO,Non-Government,,,,,American Rivers,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1AND,1,11,3,,NGO,Non-Government,,,,,Asian Neighborhood Design,,,,,,,1,,,,,,1,1,1
+1AndaPR,1,8,3,,Consultants,Non-Government,,,,,AndaPR,,1,,,,,,,,,,,9,1,9
+1APEN,1,11,3,,NGO,Non-Government,,,,,Asian Pacific Environmental Network,,,1,1,,,,,,,,,2,1,2
+1ARC,1,8,3,,Consultants,Non-Government,,,,,ARC Alternatives,,1,,,,,,,,,,,9,1,9
+1Arcadis,1,8,3,,Consultants,Non-Government,,,,,Arcadis,,,1,,,,1,,,,,,2,1,2
+1Arntz,1,13,3,,Foundations and Banks,Non-Government,,,,,Arntz Familiy Foundation,,,1,,1,,1,,,,1,,4,1,4
+1AT&T,1,9,3,,Industry,Non-Government,,,,,AT&T,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1ATR,1,8,3,,Consultants,Non-Government,,,,,AltaTerra Research,,,,,,,,,1,,,,1,1,1
+1AudubonRB,1,11,3,,NGO,Non-Government,,,,,Richardson Bay Audubon Center & Sanctuary,,,,,1,,,,,,,,1,1,1
+1AudubonSCV,1,11,3,,NGO,Non-Government,,,,,Santa Clara Valley Audubon Society,,,,,,,,,1,,,,1,1,1
+1Aurora,1,12,3,,Educational,Non-Government,,,,,Aurora School,,,1,,,,,,,,,,1,1,1
+1Autodesk,1,9,3,,Industry,Non-Government,,,,,Autodesk,,,,,1,,,,,,,,1,1,1
+1BAAQMD,1,3,3,,Government-State,Government-State,,,,,Bay Area Air Quality Management District,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAC,1,11,3,,NGO,Non-Government,,,,,Bay Area Council,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAC EI,1,11,3,,NGO,Non-Government,,,,,Bay Area Council - Economic Institute,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BACC,1,10,3,,Consortium,Local Government,,,,,Bay Area Climate Collaborative,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BACLT,1,11,3,,NGO,Non-Government,,,,,Bay Area Community Land Trust,,,1,,,,,,,,,,1,1,1
+1BACRDR,1,8,3,,Consultants,Non-Government,,,,,Bay Area Center for Regional Disaster Resilience,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BACWA,1,7,3,,Government-Joint Powers,Local Government,,,,,Bay Area Clean Water Agencies,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAECCC,1,10,3,,Consortium,Local Government,,,,,Bay Area Ecosystems Cimate Change Consortium,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAFPAA,1,10,3,,Consortium,Local Government,,,,,Bay Area Flood Protection Agencies Association,,,1,1,1,1,,1,1,1,1,,8,1,8
+1BakerCent,1,11,3,,NGO,Non-Government,,,,,Ella Baker Center for Human Rights,,,1,,,,,,,,,,1,1,1
+1BAOSC,1,11,3,,NGO,Non-Government,,,,,Bay Area Open Space Council,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAPURA,1,15,3,,Other,Non-Government,,,,,BAPURA,,1,,,,,,,,,,,9,,9
+1BARC,1,10,3,,Consortium,Local Government,,,,,Bay Area Regional Collaborative,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BART,1,6,3,,Government-Special Districts,Local Government,,,,,Bay Area Rapid Transit,,,1,1,,,1,1,,,,,4,1,4
+1BAWAC,1,10,3,,Consortium,Local Government,,,,,Bay Area Water Agencies Coalition,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BAWSCA,1,6,3,,Water Districts,Local Government,,,,,Bay Area Water Supply and Conservation Agency,,,1,,,,,1,1,,,,3,1,3
+1Bay880,1,11,3,,NGO,Non-Government,,,,,Bay Area Healthy 880 Communities,,,1,,,,,,,,,,1,1,1
+1BayerCorp,1,9,3,,Industry,Non-Government,,,,,Bayer Corporation,,1,,,,,,,,,,,9,1,9
+1BayInst,1,11,3,,NGO,Non-Government,,,,,The Bay Institute and Aquarium of the Bay,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BayLocal,1,11,3,,NGO,Non-Government,,,,,Bay Localize,,,1,1,,,,,,,,,2,1,2
+1BayTrail,1,11,3,,NGO,Non-Government,,,,,Bay Trail,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BBD,1,1,3,,Government-City,Local Government,,,,,Benicia Building Division,,,,,,,,,,1,,,1,1,1
+1BCAC,1,11,3,,NGO,Non-Government,,,,,Berkeley Climate Action Coalition,,,1,,,,,,,,,,1,1,1
+1BCDC,1,3,3,,Government-State,Government-State,,,,,San Francisco Bay Conservation and Development Commission,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BDP,1,11,3,,NGO,Non-Government,,,,,Brightline Defense Project,,,,,,,1,,,,,,1,1,1
+1BDPNN,1,11,3,,NGO,Non-Government,,,,,Berkeley Disaster Preparedness Neighborhood Network,,,1,,,,,,,,,,1,1,1
+1BDS,1,12,3,,Educational,Non-Government,,,,,Beacon Day School,,,1,,,,,,,,,,1,1,1
+1BeachChalet,1,9,3,,Industry,Non-Government,,,,,BeachChalet,,,,,,,1,,,,,,1,1,1
+1Bechtel,1,13,3,,Foundations and Banks,Non-Government,,,,,S.D. Bechtel Jr. Foundation,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BEDD,1,1,3,,Government-County,Government-County,,,,,Benicia Economic Development Department,,,,,,,,,,1,,,1,1,1
+1BerkLab,1,14,3,,Science,Non-Government,,,,,Berkeley Lab,,,1,,,,,,,,,,1,1,1
+1BerkSchool,1,12,3,,Educational,Non-Government,,,,,Berkeley Unified School District,,,1,,,,,,,,,,1,1,1
+1BIA,1,10,3,,Consortium,Local Government,,,,,Building Industry Association,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BMKeysCSD,1,6,3,,Government-Special Districts,Local Government,,,,,Bel Marin Keys Community Services District,,,,,1,,,,,,,,1,1,1
+1BofA,1,13,3,,Foundations and Banks,Non-Government,,,,,Bank of America,,1,,,,,,,,,,,9,1,9
+1BOITF,1,15,3,,Other,Non-Government,,,,,Berkeley Oil Independence Task Force,,,1,,,,,,,,,,1,1,1
+1BOR,1,4,3,,Government-Federal,Government-Federal,,,,,Bureau of Reclamation,,,1,1,1,1,1,1,1,1,1,,9,1,9
+1BPC,1,11,3,,NGO,Non-Government,,,,,Bay Planning Coalition,,1,,,,,,,,,,,9,1,9
+1BPWA,1,11,3,,NGO,Non-Government,,,,,Berkeley Path Wanderers Association,,,1,,,,,,,,,,1,1,1
+1Brattle,1,8,3,,Consultants,Non-Government,,,,,The Brattle Group,,1,,,,,,,,,,,9,1,9
+1Breakthrough,1,11,3,,NGO,Non-Government,,,,,Breakthrough Communities,,,1,,,,1,,,,,,2,1,2
+1Brelje,1,8,3,,Consultants,Non-Government,,,,,Brelje & Race,,1,,,,,,,,,,,9,1,9
+1Bridge,1,9,3,,Industry,Non-Government,,,,,Bridge Housing,,1,,,,,,,,,,,9,1,9
+1Bridgelux,1,9,3,,Industry,Non-Government,,,,,Bridgelux,,,1,,,,,,,,,,1,1,1
+1BSB,1,13,3,,Foundations and Banks,Non-Government,,,,,Beneficial State Bank,,1,,,,,,,,,,,9,1,9
+1BSG,1,9,3,,Industry,Non-Government,,,,,"Berkeley Sourcing Group, LLC",,1,,,,,,,,,,,9,1,9
+1BurHouse,1,11,3,,NGO,Non-Government,,,,,Burbank Housing,,,,,,,,,,,1,,1,1,1
+1BUSD,1,12,3,,Educational,Non-Government,,,,,Benicia Unified School District,,,,,,,,,,1,,,1,1,1
+1CAConsCorp,1,3,3,,Government-State,Government-State,,,,,California Conservation Corps,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CADC,1,3,3,,Government-State,Government-State,,,,,California Department of Conservation,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalAcademy,1,14,3,,Science,Non-Government,,,,,California Academy of Sciences,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CALCC,1,10,3,,Consortium,Local Government,,,,,California Landscape Conservation Cooperative,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalCSD,1,3,3,,Government-State,Government-State,,,,,California Department of Community Services and Development,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalEPA,1,3,3,,Government-State,Government-State,,,,,California Environmental Protection Agency,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CALFIRE,1,3,3,,Government-State,Government-State,,,,,CALFIRE,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalHealth,1,3,3,,Government-State,Government-State,,,,,California Department of Public Health,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalParks,1,3,3,,Government-State,Government-State,,,,,California State Parks,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CalTrans,1,3,3,,Government-State,Government-State,,,,,California Department of Transportation,,1,1,1,1,1,1,1,1,1,1,,9,1,9
+1CanalWelcome,1,11,3,,NGO,Non-Government,,,,,Canal Welcome Center,,,,,1,,,,,,,,1,1,1
+1CAP,1,11,3,,NGO,Non-Government,,,,,Citizens Against Pollution,,1,,,,,,,,,,,9,1,9
+1CapitolJPA,1,7,3,,Government-Joint Powers,Local Government,,,,,Capitol Corridor Joint Powers Authority,,,,1,,,,,,1,,,2,1,2
+1CapPlan,1,1,3,,Government-City,Local Government,,,,,Capital Planning Committee,,,1,,,,,,,,,,1,1,1
+1Cargill ,1,9,3,,Industry,Non-Government,,,,,Cargill Salt,,,,,,,1,,1,1,,,3,1,3
+1CBDA,1,3,3,,Government-State,Government-State,,,,,California Bay-Delta Authority,,1,,,,,,,,,,,9,1,9
+1CBI,1,14,3,,Science,Non-Government,,,,,Conservation Biology Institute,,1,,,,,,,,,,,9,1,9
+1CC,1,8,3,,Consultants,Non-Government,,,,,Culture Change,,1,,,,,,,,,,,9,1,9
+1CCAG,1,2,3,,Government-County,Government-County,,,,,City and County Association of Governments,,1,,,,,,,,,,,9,1,9
+1CCBA,1,11,3,,NGO,Non-Government,,,,,Climate Corps Bay Area,,1,,,,,,,,,,,9,1,9
+1CCCFlood,1,6,3,,Water Districts,Local Government,,,,,Contra Costa County Flood Control and Water Conservation District,,,,1,,,,,,,,,1,1,1
+1CCCMVC,1,5,3,,Environmental Districts,Local Government,,,,,Contra Costa County Mosquito and Vector Control,,,,1,,,,,,,,,1,1,1
+1CCCR,1,11,3,,NGO,Non-Government,,,,,Citizens Committee to Complete the Refuge,,,1,,,,,1,1,,,,3,1,3
+1CCDE,1,11,3,,NGO,Non-Government,,,,,"Center for Community, Democracy and Ecology (CCDE)",,1,,,,,,,,,,,9,1,9
+1CCDPH,1,2,3,,Government-County,Government-County,,,,,Contra Costa County Public Health Department,,,,1,,,,,,,,,1,1,1
+1CCEO,1,14,3,,Science,Non-Government,,,,,Creekside Center for Earth Observation,,1,,,,,,,,,,,9,1,9
+1CCEP,1,11,3,,NGO,Non-Government,,,,,Contra Costa Economic Partnership,,,,1,,,,,,,,,1,1,1
+1CCKA,1,11,3,,NGO,Non-Government,,,,,California Coastkeeper Alliance,,1,,,,,,,,,,,9,1,9
+1CCP,1,11,3,,NGO,Non-Government,,,,,Center for Climate Protection,,1,,,,,,,,,,,9,1,9
+1CCRS,1,14,3,,Science,Non-Government,,,,,Coyote Creek Riparian Station,,,,,,,,,1,,,,1,1,1
+1CCTA,1,2,3,,Government-County,Government-County,,,,,Contra Costa Transportation Authority,,,,1,,,,,,,,,1,1,1
+1CCWD,1,6,3,,Water Districts,Local Government,,,,,Contra Costa Water District,,,,1,,,,,,,,,1,1,1
+1CDBG,1,3,3,,Government-State,Government-State,,,,,California Department of Housing and Community ...,,1,,,,,,,,,,,9,1,9
+1CDC,1,4,3,,Government-Federal,Government-Federal,,,,,Center for Disease Control,,1,,,,,,,,,,,9,1,9
+1CDFW,1,3,3,,Government-State,Government-State,,,,,California Department of Fish and Wildlife,,1,,,,,,,,,,,9,1,9
+1CEC,1,3,3,,Government-State,Government-State,,,,,California Energy Commission,,1,,,,,,,,,,,9,1,9
+1CentSE,1,11,3,,NGO,Non-Government,,,,,Center for Safe Energy,,1,,,,,,,,,,,9,1,9
+1CESolar,1,9,3,,Industry,Non-Government,,,,,Cool Earth Solar,,1,,,,,,,,,,,9,1,9
+1CET,1,11,3,,NGO,Non-Government,,,,,Center for Employment Training,,,,,,,,,1,,,,1,1,1
+1CFBA,1,9,3,,Industry,Non-Government,,,,,California Farm Bureau Association,,1,,,,,,,,,,,9,1,9
+1CfBE,1,11,3,,NGO,Non-Government,,,,,Communities For a Better Environment,,,1,,,,,,,,,,1,1,1
+1CFC,1,9,3,,Industry,Non-Government,,,,,Clean Fuels Connection,,1,,,,,,,,,,,9,1,9
+1CFSC,1,13,3,,Foundations and Banks,Non-Government,,,,,Community Foundation Sonoma County,,,,,,,,,,,1,,1,1,1
+1CGF,1,11,3,,NGO,Non-Government,,,,,Committee for Green Foothills,,,,,,,,1,1,,,,2,1,2
+1CGS,1,3,3,,Government-State,Government-State,,,,,California Geologic Survey,,1,,,,,,,,,,,9,1,9
+1CH2M,1,8,3,,Consultants,Non-Government,,,,,CH2M Hill,,1,,,,,,,,,,,9,1,9
+1CHARG,1,10,3,,Consortium,Local Government,,,,,CHARG Network,,1,,,,,,,,,,,9,1,9
+1ChargeP,1,9,3,,Industry,Non-Government,,,,,ChargePoint,,1,,,,,,,,,,,9,1,9
+1CHDCNR,1,1,3,,Government-City,Local Government,,,,,Community Housing Development Corporation of North Richmond,,,,1,,,,,,,,,1,1,1
+1Chevron,1,9,3,,Industry,Non-Government,,,,,Chevron,,1,,,,,,,,,,,9,1,9
+1CirclePoint,1,8,3,,Consultants,Non-Government,,,,,CirclePoint,,1,,,,,,,,,,,9,1,9
+1CISE,1,9,3,,Industry,Non-Government,,,,,Cal Inflector-Sun Energy,,1,,,,,,,,,,,9,1,9
+1City Co of SF,1,1,3,,Government-City,Local Government,,,,,City and County of San Francisco,,,,,,,1,,,,,,1,1,1
+1City of Alameda,1,1,3,,Government-City,Local Government,,,,,City of Alameda,,,1,,,,,,,,,,1,1,1
+1City of Albany,1,1,3,,Government-City,Local Government,,,,,City of Albany,,,1,,,,,,,,,,1,1,1
+1City of Belvedere,1,1,3,,Government-City,Local Government,,,,,City of Belvedere,,,,,1,,,,,,,,1,1,1
+1City of Benicia,1,1,3,,Government-City,Local Government,,,,,City of Benicia,,,,,,,,,,1,,,1,1,1
+1City of Berkeley,1,1,3,,Government-City,Local Government,,,,,City of Berkeley,,,1,,,,,,,,,,1,1,1
+1City of Campbell,1,1,3,,Government-City,Local Government,,,,,City of Campbell,,,,,,,,,1,,,,1,1,1
+1City of Clayton,1,1,3,,Government-City,Local Government,,,,,City of Clayton,,,,1,,,,,,,,,1,1,1
+1City of Cloverdale,1,1,3,,Government-City,Local Government,,,,,City of Cloverdale,,,,,,,,,,,1,,1,1,1
+1City of Concord,1,1,3,,Government-City,Local Government,,,,,City of Concord,,,,1,,,,,,,,,1,1,1
+1City of Corte Madera,1,1,3,,Government-City,Local Government,,,,,City of Corte Madera,,,,,1,,,,,,,,1,1,1
+1City of Cotati,1,1,3,,Government-City,Local Government,,,,,City of Cotati,,,,,,,,,,,1,,1,1,1
+1City of Cupertino,1,1,3,,Government-City,Local Government,,,,,City of Cupertino,,,,,,,,,1,,,,1,1,1
+1City of Daly City,1,1,3,,Government-City,Local Government,,,,,City of Daly City,,,,,,,,1,,,,,1,1,1
+1City of Dublin,1,1,3,,Government-City,Local Government,,,,,City of Dublin,,,1,,,,,,,,,,1,1,1
+1City of El Cerrito,1,1,3,,Government-City,Local Government,,,,,City of El Cerrito,,,,1,,,,,,,,,1,1,1
+1City of Emeryville,1,1,3,,Government-City,Local Government,,,,,City of Emeryville,,,1,,,,,,,,,,1,1,1
+1City of Fairfax,1,1,3,,Government-City,Local Government,,,,,City of Fairfax,,,,,1,,,,,,,,1,1,1
+1City of Fairfield,1,1,3,,Government-City,Local Government,,,,,City of Fairfield,,,,,,,,,,1,,,1,1,1
+1City of Foster City,1,1,3,,Government-City,Local Government,,,,,City of Foster City,,,,,,,,1,,,,,1,1,1
+1City of Fremont,1,1,3,,Government-City,Local Government,,,,,City of Fremont,,,1,,,,,,,,,,1,1,1
+1City of Hayward,1,1,3,,Government-City,Local Government,,,,,City of Hayward,,,1,,,,,,,,,,1,1,1
+1City of Healdsburg,1,1,3,,Government-City,Local Government,,,,,City of Healdsburg,,,,,,,,,,,1,,1,1,1
+1City of Larkspur,1,1,3,,Government-City,Local Government,,,,,City of Larkspur,,,,,1,,,,,,,,1,1,1
+1City of Livermore,1,1,3,,Government-City,Local Government,,,,,City of Livermore,,,1,,,,,,,,,,1,1,1
+1City of Los Altos Hills,1,1,3,,Government-City,Local Government,,,,,City of Los Altos Hills,,,,,,,,,1,,,,1,1,1
+1City of Los Gatos,1,1,3,,Government-City,Local Government,,,,,City of Los Gatos,,,,,,,,,1,,,,1,1,1
+1City of Martinez,1,1,3,,Government-City,Local Government,,,,,City of Martinez,,,,1,,,,,,,,,1,1,1
+1City of Menlo Park,1,1,3,,Government-City,Local Government,,,,,City of Menlo Park,,,,,,,,1,,,,,1,1,1
+1City of Mill Valley,1,1,3,,Government-City,Local Government,,,,,City of Mill Valley,,,,,1,,,,,,,,1,1,1
+1City of Millbrae,1,1,3,,Government-City,Local Government,,,,,City of Millbrae,,,,,,,,1,,,,,1,1,1
+1City of Milpitas,1,1,3,,Government-City,Local Government,,,,,City of Milpitas,,,,,,,,,1,,,,1,1,1
+1City of Morgan Hill,1,1,3,,Government-City,Local Government,,,,,City of Morgan Hill,,,,,,,,,1,,,,1,1,1
+1City of Mountain View,1,1,3,,Government-City,Local Government,,,,,City of Mountain View,,,,,,,,,1,,,,1,1,1
+1City of Napa,1,1,3,,Government-City,Local Government,,,,,City of Napa,,,,,,1,,,,,,,1,1,1
+1City of Newark,1,1,3,,Government-City,Local Government,,,,,City of Newark,,,1,,,,,,,,,,1,1,1
+1City of Novato,1,1,3,,Government-City,Local Government,,,,,City of Novato,,,,,1,,,,,,,,1,1,1
+1City of Oakland,1,1,3,,Government-City,Local Government,,,,,City of Oakland,,,1,,,,,,,,,,1,1,1
+1City of Oakley,1,1,3,,Government-City,Local Government,,,,,City of Oakley,,,,1,,,,,,,,,1,1,1
+1City of Palo Alto,1,1,3,,Government-City,Local Government,,,,,City of Palo Alto,,,,,,,,,1,,,,1,1,1
+1City of Petaluma,1,1,3,,Government-City,Local Government,,,,,City of Petaluma,,,,,,,,,,,1,,1,1,1
+1City of Piedmont,1,1,3,,Government-City,Local Government,,,,,City of Piedmont,,,1,,,,,,,,,,1,1,1
+1City of Pinole,1,1,3,,Government-City,Local Government,,,,,City of Pinole,,,,1,,,,,,,,,1,1,1
+1City of Pittsburg,1,1,3,,Government-City,Local Government,,,,,City of Pittsburg,,,,1,,,,,,,,,1,1,1
+1City of Pleasanton,1,1,3,,Government-City,Local Government,,,,,City of Pleasanton,,,1,,,,,,,,,,1,1,1
+1City of Redwood City,1,1,3,,Government-City,Local Government,,,,,City of Redwood City,,,,,,,,1,,,,,1,1,1
+1City of Richmond,1,1,3,,Government-City,Local Government,,,,,City of Richmond,,,,1,,,,,,,,,1,1,1
+1City of Rohnert Park,1,1,3,,Government-City,Local Government,,,,,City of Rohnert Park,,,,,,,,,,,1,,1,1,1
+1City of Ross,1,1,3,,Government-City,Local Government,,,,,City of Ross,,,,,1,,,,,,,,1,1,1
+1City of San Jose,1,1,3,,Government-City,Local Government,,,,,City of San Jose,,,,,,,,,1,,,,1,1,1
+1City of San Leandro,1,1,3,,Government-City,Local Government,,,,,City of San Leandro,,,1,,,,,,,,,,1,1,1
+1City of San Mateo,1,1,3,,Government-City,Local Government,,,,,City of San Mateo,,,,,,,,1,,,,,1,1,1
+1City of San Pablo,1,1,3,,Government-City,Local Government,,,,,City of San Pablo,,,,1,,,,,,,,,1,1,1
+1City of San Rafael,1,1,3,,Government-City,Local Government,,,,,City of San Rafael,,,,,1,,,,,,,,1,1,1
+1City of San Ramon,1,1,3,,Government-City,Local Government,,,,,City of San Ramon,,,,1,,,,,,,,,1,1,1
+1City of Santa Clara,1,1,3,,Government-City,Local Government,,,,,City of Santa Clara,,,,,,,,,1,,,,1,1,1
+1City of Santa Monica,1,1,3,,Government-City,Local Government,,,,,City of Santa Monica,1,,,,,,,,,,,,0,1,0
+1City of Santa Rosa,1,1,3,,Government-City,Local Government,,,,,City of Santa Rosa,,,,,,,,,,,1,,1,1,1
+1City of Saratoga,1,1,3,,Government-City,Local Government,,,,,City of Saratoga,,,,,,,,,1,,,,1,1,1
+1City of Sausalito,1,1,3,,Government-City,Local Government,,,,,City of Sausalito,,,,,1,,,,,,,,1,1,1
+1City of Sebastopol,1,1,3,,Government-City,Local Government,,,,,City of Sebastopol,,,,,,,,,,,1,,1,1,1
+1City of Sonoma,1,1,3,,Government-City,Local Government,,,,,City of Sonoma,,,,,,,,,,,1,,1,1,1
+1City of South San Francisco,1,1,3,,Government-City,Local Government,,,,,City of South San Francisco,,,,,,,,1,,,,,1,1,1
+1City of Sunnyvale,1,1,3,,Government-City,Local Government,,,,,City of Sunnyvale,,,,,,,,,1,,,,1,1,1
+1City of Tiburon,1,1,3,,Government-City,Local Government,,,,,City of Tiburon,,,,,1,,,,,,,,1,1,1
+1City of Union City,1,1,3,,Government-City,Local Government,,,,,City of Union City,,,1,,,,,,,,,,1,1,1
+1City of Vallejo,1,1,3,,Government-City,Local Government,,,,,City of Vallejo,,,,,,,,,,1,,,1,1,1
+1City of Windsor,1,1,3,,Government-City,Local Government,,,,,City of Windsor,,,,,,,,,,,1,,1,1,1
+1CivicSpark,1,3,3,,Government-State,Government-State,,,,,Americorps CivicSpark,,1,,,,,,,,,,,9,1,9
+1ClAccess,1,11,3,,NGO,Non-Government,,,,,Climate Access,,1,,,,,,,,,,,9,1,9
+1CleanCo,1,11,3,,NGO,Non-Government,,,,,Clean Coalition,,1,,,,,,,,,,,9,1,9
+1Clif,1,9,3,,Industry,Non-Government,,,,,Clif Bar,,1,,,,,,,,,,,9,1,9
+1CMGLA,1,8,3,,Consultants,Non-Government,,,,,CMG Landscape Architecture,,1,,,,,,,,,,,9,1,9
+1CMSA,1,2,3,,Government-County,Government-County,,,,,Central Marin Sanitation Agency,,,,,1,,,,,,,,1,1,1
+1CNR,1,3,3,,Government-State,Government-State,,,,,California Natural Resources Agency,,1,,,,,,,,,,,9,1,9
+1CoastComm,1,3,3,,Government-State,Government-State,,,,,California Coastal Commission,,1,,,,,,,,,,,9,1,9
+1Codding,1,13,3,,Foundations and Banks,Non-Government,,,,,Codding Foundation,,1,,,,,,,,,,,9,1,9
+1COES,1,3,3,,Government-State,Government-State,,,,,California Office of Emergency Services,,1,,,,,,,,,,,9,1,9
+1Comcast,1,9,3,,Industry,Non-Government,,,,,Comcast,,1,,,,,,,,,,,9,1,9
+1Connect,1,15,3,,Other,Non-Government,,,,,Connect the Dots,,1,,,,,,,,,,,9,1,9
+1Conservancy,1,3,3,,Government-State,Government-State,,,,,California Coastal Conservancy,,1,,,,,,,,,,,9,1,9
+1CoopCE,1,9,3,,Industry,Non-Government,,,,,Cooperative Community Energy,,1,,,,,,,,,,,9,1,9
+1Cooper,1,9,3,,Industry,Non-Government,,,,,Cooper Lighting,,1,,,,,,,,,,,9,1,9
+1Coravai,1,8,3,,Consultants,Non-Government,,,,,Coravai,,1,,,,,,,,,,,9,1,9
+1COS,1,10,3,,Consortium,Local Government,,,,,Center for Ocean Solutions,,1,,,,,,,,,,,9,1,9
+1Costco,1,9,3,,Industry,Non-Government,,,,,Costco,,1,,,,,,,,,,,9,1,9
+1County of Alameda,1,2,3,,Government-County,Government-County,,,,,County of Alameda,,,1,,,,,,,,,,1,1,1
+1County of Contra Costa,1,2,3,,Government-County,Government-County,,,,,County of Contra Costa,,,,1,,,,,,,,,1,1,1
+1County of Humboldt,1,2,3,,Government-County,Government-County,,,,,County of Humboldt,1,,,,,,,,,,,,0,1,0
+1County of Marin,1,2,3,,Government-County,Government-County,,,,,County of Marin,,,,,1,,,,,,,,1,1,1
+1County of Napa,1,2,3,,Government-County,Government-County,,,,,County of Napa,,,,,,1,,,,,,,1,1,1
+1County of San Mateo,1,2,3,,Government-County,Government-County,,,,,County of San Mateo,,,,,,,,1,,,,,1,1,1
+1County of Santa Clara,1,2,3,,Government-County,Government-County,,,,,County of Santa Clara,,,,,,,,,1,,,,1,1,1
+1County of Santa Cruz,1,2,3,,Government-County,Government-County,,,,,County of Santa Cruz,1,,,,,,,,,,,,0,1,0
+1County of Solano,1,2,3,,Government-County,Government-County,,,,,County of Solano,,,,,,,,,,1,,,1,1,1
+1County of Sonoma,1,2,3,,Government-County,Government-County,,,,,County of Sonoma,,,,,,,,,,,1,,1,1,1
+1CPA,1,11,3,,NGO,Non-Government,,,,,Center for Progressive Action,,1,,,,,,,,,,,9,1,9
+1CPC,1,11,3,,NGO,Non-Government,,,,,Climate Protection Campaign,,1,,,,,,,,,,,9,1,9
+1CPDDWG,1,2,3,,Government-County,Government-County,,,,,County Planning and Development Department Working Group for the Public Health Element of the General Plan,,,,,,,,,1,,,,1,1,1
+1CPUC,1,3,3,,Government-State,Government-State,,,,,California Public Utilities Commission,,1,,,,,,,,,,,9,1,9
+1Craft,1,8,3,,Consultants,Non-Government,,,,,Craft Consulting Group,,1,,,,,,,,,,,9,1,9
+1CRI,1,10,3,,Consortium,Local Government,,,,,Climate Readiness Institute,,1,,,,,,,,,,,9,1,9
+1Crocker,1,13,3,,Foundations and Banks,Non-Government,,,,,Mary Crocker Foundation,,1,,,,,,,,,,,9,1,9
+1Crunchy,1,9,3,,Industry,Non-Government,,,,,Crunchy Foods,,1,,,,,,,,,,,9,1,9
+1CSMW,1,11,3,,NGO,Non-Government,,,,,1California Coastal Sediment Management Workgroup,,1,,,,,,,,,,,9,1,9
+1CSOB,1,11,3,,NGO,Non-Government,,,,,Coalition to Save Ocean Beach,,,,,,,1,,,,,,1,1,1
+1CST,1,15,3,,Other,Non-Government,,,,,Catalyst for a Sustainable Future,,1,,,,,,,,,,,9,1,9
+1CVSanD,1,5,3,,Environmental Districts,Local Government,,,,,Castro Valley Sanitary District,,,1,,,,,,,,,,1,1,1
+1CWA,1,15,3,,Other,Non-Government,,,,,Communication Workers of America,,1,,,,,,,,,,,9,1,9
+1Danem,1,13,3,,Foundations and Banks,Non-Government,,,,,Danem Foundation,,1,,,,,,,,,,,9,1,9
+1DBOC,1,9,3,,Industry,Non-Government,,,,,Drakes Bay Oyster Company,,,,,1,,,,,,,,1,1,1
+1DCGrid,1,11,3,,NGO,Non-Government,,,,,DCgrid.us,,1,,,,,,,,,,,9,1,9
+1DefendWild,1,11,3,,NGO,Non-Government,,,,,Defenders of Wildlife,,1,,,,,,,,,,,9,1,9
+1DELTCON,1,3,3,,Government-State,Government-State,,,,,Delta Conservancy,,,,1,,,,,,1,,,2,1,2
+1DeltStew,1,3,3,,Government-State,Government-State,,,,,Delta Stewardship Council,,,1,1,,,1,,,1,,,4,1,4
+1DIG,1,9,3,,Industry,Non-Government,,,,,DIG Coop,,1,,,,,,,,,,,9,1,9
+1DMS,1,9,3,,Industry,Non-Government,,,,,Dixon Marine Services,,,,,,,,,,1,,,1,1,1
+1DNVGL,1,8,3,,Consultants,Non-Government,,,,,DNV GL,,1,,,,,,,,,,,9,1,9
+1DPC,1,3,3,,Government-State,Government-State,,,,,Delta Protection Commission,,,1,1,,,1,,,1,,,4,1,4
+1DPM,1,8,3,,Consultants,Non-Government,,,,,DPM Associates,,1,,,,,,,,,,,9,1,9
+1DucksU,1,11,3,,NGO,Non-Government,,,,,Ducks Unlimited,,1,,,,,,,,,,,9,1,9
+1DWR,1,3,3,,Government-State,Government-State,,,,,California Department of Water Resources,,1,,,,,,,,,,,9,1,9
+1EarthShare,1,8,3,,Consultants,Non-Government,,,,,EarthShare,,1,,,,,,,,,,,9,1,9
+1EBALDC,1,11,3,,NGO,Non-Government,,,,,East Bay Asian Local Development Corporation (EBALDC),,,1,,,,,,,,,,1,1,1
+1EBCohouse,1,8,3,,Consultants,Non-Government,,,,,East Bay Cohousing - Cohousing California,,,1,,,,1,,,,,,2,1,2
+1EBDischargers,1,7,3,,Government-Joint Powers,Local Government,,,,,East Bay Dischargers Association,,,1,,,,,,,,,,1,1,1
+1EBEconDev,1,10,3,,Consortium,Local Government,,,,,East Bay Economic Development Alliance,,,1,,,,,,,,,,1,1,1
+1EBGC,1,10,3,,Consortium,Local Government,,,,,East Bay Green Corridor,,,1,1,,,,,,,,,2,1,2
+1EBGreen,1,9,3,,Industry,Non-Government,,,,,East Bay Green Tours,,,1,,,,,,,,,,1,1,1
+1EBMToolsNet,1,14,3,,Science,Non-Government,,,,,Ecosystem Based Management Tools Network,,1,,,,,,,,,,,9,1,9
+1EBMUD,1,6,3,,Water Districts,Local Government,,,,,East Bay Municipal Utility District,,,1,1,,,,,,,,,2,1,2
+1EBParks,1,5,3,,Environmental Districts,Local Government,,,,,East Bay Regional Park District,,,1,1,,,,,,,,,2,1,2
+1EcoCent,1,11,3,,NGO,Non-Government,,,,,Ecology Center,,1,,,,,,,,,,,9,1,9
+1Ecocity,1,11,3,,NGO,Non-Government,,,,,Ecocity Builders,,1,,,,,,,,,,,9,1,9
+1ECOtality,1,9,3,,Industry,Non-Government,,,,,ECOtality,,1,,,,,,,,,,,9,1,9
+1Eden,1,15,3,,Other,Non-Government,,,,,Eden Shores Community,,,1,,,,,,,,,,1,1,1
+1EDF,1,11,3,,NGO,Non-Government,,,,,Environmental Defense Fund,,1,,,,,,,,,,,9,1,9
+1EDMarin,1,11,3,,NGO,Non-Government,,,,,Earth Day Marin,,,,,1,,,,,,,,1,1,1
+1EERI,1,11,3,,NGO,Non-Government,,,,,Earthquake Engineering Research Institute,,1,,,,,,,,,,,9,1,9
+1EJCW,1,11,3,,NGO,Non-Government,,,,,Environmental Justice Coalition for Water,,1,,,,,,,,,,,9,1,9
+1ElementLED,1,9,3,,Industry,Non-Government,,,,,ElementalLED,,1,,,,,,,,,,,9,1,9
+1Enphase,1,9,3,,Industry,Non-Government,,,,,Enphase Energy,,1,,,,,,,,,,,9,1,9
+1ENVIRON,1,8,3,,Consultants,Non-Government,,,,,ENVIRON Corporation,,1,,,,,,,,,,,9,1,9
+1EPA,1,4,3,,Government-Federal,Government-Federal,,,,,US Environmental Protection Agency,,1,,,,,,,,,,,9,1,9
+1EPA ORD,1,4,3,,Government-Federal,Government-Federal,,,,,Environmental Protection Agency - Office of Research and Development,,1,,,,,,,,,,,9,1,9
+1Eprep,1,8,3,,Consultants,Non-Government,,,,,Energy Preparedness,,1,,,,,,,,,,,9,1,9
+1EPS,1,8,3,,Consultants,Non-Government,,,,,Economic Planning Systems,,1,,,,,,,,,,,9,1,9
+1ESA,1,8,3,,Consultants,Non-Government,,,,,Environmental Science Associates,,1,,,,,,,,,,,9,1,9
+1ESC,1,15,3,,Other,Non-Government,,,,,Energy Solidarity Cooperative,,,1,,,,,,,,,,1,1,1
+1EVCA,1,11,3,,NGO,Non-Government,,,,,EV Communities Alliance,,1,,,,,,,,,,,9,1,9
+1Everybody,1,11,3,,NGO,Non-Government,,,,,Everybody Solar,,1,,,,,,,,,,,9,1,9
+1Facebook,1,9,3,,Industry,Non-Government,,,,,Facebook,,1,,,,,,,,,,,9,1,9
+1Farallones,1,4,3,,Government-Federal,Government-Federal,,,,,NOAA Farallones Marine Sanctuary,1,,,,,,,,,,,,0,,0
+1Feinstein,1,4,3,,Government-Federal,Government-Federal,,,,,Office of Senator Diane Feinstein,,1,,,,,,,,,,,9,1,9
+1FEMA,1,4,3,,Government-Federal,Government-Federal,,,,,Federal Emergency Management Agency,,1,,,,,,,,,,,9,1,9
+1FoFC,1,11,3,,NGO,Non-Government,,,,,Friends of Five Creeks,,,1,1,,,,,,,,,2,1,2
+1FriantWater,1,7,3,,Government-Joint Powers,Local Government,,,,,Friant Water Authority,1,,,,,,,,,,,,0,1,0
+1FriendsCorte,1,11,3,,NGO,Non-Government,,,,,Friends of Corte Madera Creek Watershed,,,,,1,,,,,,,,1,1,1
+1FriendsNapa,1,11,3,,NGO,Non-Government,,,,,Friends of the Napa River,,,,,,1,,,,,,,1,1,1
+1FriendsNovato,1,11,3,,NGO,Non-Government,,,,,Friends of Novato Creek,,,,,1,,,,,,,,1,1,1
+1FriendsPetaluma,1,11,3,,NGO,Non-Government,,,,,Friends of the Petaluma River,,,,,,,,,,,1,,1,1,1
+1FriendsSFEstuary,1,11,3,,NGO,Non-Government,,,,,Friends of the San Francisco Estuary,,,,,,,1,,,,,,1,1,1
+1GA,1,11,3,,NGO,Non-Government,,,,,GreenAction,,1,,,,,,,,,,,9,1,9
+1GallinasSanD,1,5,3,,Environmental Districts,Local Government,,,,,Las Gallinas Valley Sanitary District,,,,,1,,,,,,,,1,1,1
+1GBMF,1,13,3,,Foundations and Banks,Non-Government,,,,,Gordon and Betty Moore Foundation,,1,,,,,,,,,,,9,1,9
+1GCGuide,1,4,3,,Government-Federal,Government-Federal,,,,,Green Contractor Guide,,1,,,,,,,,,,,9,1,9
+1GCNet,1,11,3,,NGO,Non-Government,,,,,Green Cafe Network,,1,,,,,,,,,,,9,1,9
+1GEL,1,9,3,,Industry,Non-Government,,,,,GroupEnergyLeotek,,1,,,,,,,,,,,9,1,9
+1GELS,1,9,3,,Industry,Non-Government,,,,,GE Lighting Solutions,,1,,,,,,,,,,,9,1,9
+1Genen,1,9,3,,Industry,Non-Government,,,,,GenenTech,,1,,,,,,,,,,,9,1,9
+1GenGreen,1,11,3,,NGO,Non-Government,,,,,Generation Green,,1,,,,,,,,,,,9,1,9
+1Gensler,1,8,3,,Consultants,Non-Government,,,,,Gensler,,1,,,,,,,,,,,9,1,9
+1Geografika,1,8,3,,Consultants,Non-Government,,,,,Geografika,,1,,,,,,,,,,,9,1,9
+1GG,1,8,3,,Consultants,Non-Government,,,,,Global Genesis,,1,,,,,,,,,,,9,1,9
+1GGAS,1,11,3,,NGO,Non-Government,,,,,Golden Gate Audubon Society,,,,,,,1,,,,,,1,1,1
+1GHD,1,8,3,,Consultants,Non-Government,,,,,GHD Consulting Engineers,,1,,,,,,,,,,,9,1,9
+1GlobEx,1,11,3,,NGO,Non-Government,,,,,Global Exchange,,1,,,,,,,,,,,9,1,9
+1GNSC,1,11,3,,NGO,Non-Government,,,,,Good Neighbor Steering Committee,,,,,,,,,,1,,,1,1,1
+1GOGA,1,4,3,,Government-Federal,Government-Federal,,,,,National Park Service - Golden Gate National Recreation Area,,,,,,,1,,,,,,1,1,1
+1Goldman,1,13,3,,Foundations and Banks,Non-Government,,,,,Richard and Rhoda Goldman Fund,,1,,,,,,,,,,,9,1,9
+1Goldman2,1,13,3,,Foundations and Banks,Non-Government,,,,,Lisa and Douglas Goldman Foundation,,1,,,,,,,,,,,9,1,9
+1Google,1,9,3,,Industry,Non-Government,,,,,Google,,1,,,,,,,,,,,9,1,9
+1Grassroots,1,11,3,,NGO,Non-Government,,,,,Marin Grassroots,,,,,1,,,,,,,,1,1,1
+1Greenaction,1,11,3,,NGO,Non-Government,,,,,Greenaction for Health and Environmental Justice,,,1,,,,1,,,,,,2,1,2
+1GreenEcoTek,1,9,3,,Industry,Non-Government,,,,,Green Eco Tek.com,,,,,,,,,,,,1,0,1,0
+1Greenhouse,1,15,3,,Other,Non-Government,,,,,Greenhouse Collective.com,,,,,,,,,,,,1,0,1,0
+1GreenUp,1,8,3,,Consultants,Non-Government,,,,,GreenUp Learning,,1,,,,,,,,,,,9,1,9
+1GRP,1,8,3,,Consultants,Non-Government,,,,,"Green Retirement Plans, Inc.",,1,,,,,,,,,,,9,1,9
+1GRRCD,1,5,3,,Environmental Districts,Local Government,,,,,Gold Ridge Resource Conservation District,,,,,,,,,,,1,,1,1,1
+1GWC,1,11,3,,NGO,Non-Government,,,,,Gallinas Watershed Council,,,,,1,,,,,,,,1,1,1
+1HabHum EB,1,11,3,,NGO,Non-Government,,,,,Habitat for Humanity East Bay-Silicon Valley,,,1,1,,,,,1,,,,3,1,3
+1HabHum GSF,1,11,3,,NGO,Non-Government,,,,,Habitat for Humanity Greater San Francisco,,,,,,,1,,,,,,1,1,1
+1HabHum MC,1,11,3,,NGO,Non-Government,,,,,Habitat for Humanity of the Mendocino Coast,1,,,,,,,,,,,,0,1,0
+1HabHum NS,1,11,3,,NGO,Non-Government,,,,,Habitat for Humanity Napa-Solano,,,,,,1,,,,1,,,2,1,2
+1HabHum SC,1,11,3,,NGO,Non-Government,,,,,Habitat for Humanity Sonoma County,,,,,,,,,,,1,,1,1,1
+1Hara,1,9,3,,Industry,Non-Government,,,,,"HARA SOFTWARE, INC.",,1,,,,,,,,,,,9,1,9
+1HASPA,1,1,3,,Government-City,Local Government,,,,,Hayward Area Shoreline Planning Agency,,,1,,,,,,,,,,1,1,1
+1HaywardParks,1,5,3,,Environmental Districts,Local Government,,,,,Hayward Area Recreation and Park District,,,1,,,,,,,,,,1,1,1
+1Herzfeld,1,9,3,,Industry,Non-Government,,,,,martinHerzfeld,,1,,,,,,,,,,,9,1,9
+1HLTSC,1,11,3,,NGO,Non-Government,,,,,Housing Land Trust of Sonoma County,,,,,,,,,,,1,,1,1,1
+1Holton,1,8,3,,Consultants,Non-Government,,,,,Geoffrey Holton and Associates,,1,,,,,,,,,,,9,1,9
+1HSU,1,14,3,,Science,Non-Government,,,,,Humboldt State University ,1,,,,,,,,,,,,0,1,0
+1Hydrocomp,1,8,3,,Consultants,Non-Government,,,,,"HydroComp, Inc",,1,,,,,,,,,,,9,1,9
+1IBEW NECA,1,15,3,,Other,Non-Government,,,,,IBEW-NECA,1,,,,,,,,,,,,0,1,0
+1IBEW332,1,15,3,,Other,Non-Government,,,,,IBEW 332,,,,,,,,,1,,,,1,1,1
+1IBEW595,1,15,3,,Other,Non-Government,,,,,IBEW 595,1,,,,,,,,,,,,0,1,0
+1ICF,1,8,3,,Consultants,Non-Government,,,,,ICF International,,1,,,,,,,,,,,9,1,9
+1ICLEI,1,4,3,,Government-Federal,Government-Federal,,,,,ICLEI Local Governments for Sustainability,,1,,,,,,,,,,,9,1,9
+1ImperialDPH,1,2,3,,Government-County,Government-County,,,,,Imperial County Public Health Department,1,,,,,,,,,,,,0,1,0
+1Isla,1,8,3,,Consultants,Non-Government,,,,,Isla Arena Consulting,,1,,,,,,,,,,,9,1,9
+1JPB,1,13,3,,Foundations and Banks,Non-Government,,,,,The JPB Foundation,,1,,,,,,,,,,,9,1,9
+1JVSV,1,8,3,,Consultants,Non-Government,,,,,Joint Venture Silicon Valley,,,,,,,,,1,,,,1,1,1
+1Kearns ,1,8,3,,Consultants,Non-Government,,,,,Kearns & West,,1,,,,,,,,,,,9,1,9
+1Kennedy,1,8,3,,Consultants,Non-Government,,,,,Kennedy Jenks Consultants,,1,,,,,,,,,,,9,1,9
+1KennedySch,1,12,3,,Educational,Non-Government,,,,,Harvard Kennedy School,1,,,,,,,,,,,,0,1,0
+1KernWater,1,2,3,,Government-County,Government-County,,,,,Kern County Water Agency,1,,,,,,,,,,,,0,1,0
+1Kerr,1,13,3,,Foundations and Banks,Non-Government,,,,,Charles Kerr Foundation,,1,,,,,,,,,,,9,1,9
+1Kleinberg,1,9,3,,Industry,Non-Government,,,,,"Kleinberg Benefits, Inc",,,,,,,,1,,,,,1,1,1
+1KMCorp,1,9,3,,Industry,Non-Government,,,,,Kinder Morgan Corporation,,1,,,,,,,,,,,9,1,9
+1KNN,1,8,3,,Consultants,Non-Government,,,,,KNN Public Finance,,1,,,,,,,,,,,9,1,9
+1Kresge,1,13,3,,Foundations and Banks,Non-Government,,,,,Kresge Foundation,,1,,,,,,,,,,,9,1,9
+1Kropp,1,8,3,,Consultants,Non-Government,,,,,Alan Kropp & Associates,,1,,,,,,,,,,,9,1,9
+1Kyoto,1,11,3,,NGO,Non-Government,,,,,Kyoto USA,,1,,,,,,,,,,,9,1,9
+1LBNL,1,14,3,,Science,Non-Government,,,,,Lawrence Livermore National Lab,,1,,,,,,,,,,,9,1,9
+1LCGJ,1,12,3,,Educational,Non-Government,,,,,Laney College Green Jobs,,1,,,,,,,,,,,9,1,9
+1LGC,1,8,3,,Consultants,Non-Government,,,,,Local Government Commission,,1,,,,,,,,,,,9,1,9
+1LIEE,1,11,3,,NGO,Non-Government,,,,,Leadership Institute for Ecology and the Economy,,1,,,,,,,,,,,9,1,9
+1LLMed,1,11,3,,NGO,Non-Government,,,,,Lifelong Medical,,1,,,,,,,,,,,9,1,9
+1LMC,1,11,3,,NGO,Non-Government,,,,,LightMoves Consulting,,1,,,,,,,,,,,9,1,9
+1LPI,1,8,3,,Consultants,Non-Government,,,,,"Local Power, Inc.",,1,,,,,,,,,,,9,1,9
+1LSA,1,8,3,,Consultants,Non-Government,,,,,"LSA Associates, Inc",,1,,,,,,,,,,,9,1,9
+1LSRF,1,11,3,,NGO,Non-Government,,,,,Laguna de Santa Rosa Foundation,,,,,,,,,,,1,,1,1,1
+1MalongaCent,1,15,3,,Other,Non-Government,,,,,Malonga Ctr. for the Arts Tenants Assoc.,,,1,,,,,,,,,,1,1,1
+1MarinComm,1,13,3,,Foundations and Banks,Non-Government,,,,,Marin Community Foundation,,,,,1,,,,,,,,1,1,1
+1MarinFlood,1,6,3,,Water Districts,Local Government,,,,,Marin County Flood Control and Water Conservation District,,,,,1,,,,,,,,1,1,1
+1MarinMUD,1,6,3,,Water Districts,Local Government,,,,,Marin Municipal Utilities District,,,,,1,,,,,,,,1,1,1
+1MarinParks,1,2,3,,Government-County,Government-County,,,,,Marin County Parks,,,,,1,,,,,,,,1,1,1
+1MarinPW,1,2,3,,Government-County,Government-County,,,,,Marin County Public Works,,,,,1,,,,,,,,1,1,1
+1MarinSewer,1,6,3,,Water Districts,Local Government,,,,,Sewer Agency of South Marin,,,,,1,,,,,,,,1,1,1
+1MarinStorm,1,2,3,,Government-County,Government-County,,,,,Marin County Stormwater Pollution Prevention Program,,,,,1,,,,,,,,1,1,1
+1MAS,1,11,3,,NGO,Non-Government,,,,,Marin Audubon Society,,,,,1,,,,,,,,1,1,1
+1Mazzetti,1,8,3,,Consultants,Non-Government,,,,,Mazzetti,,1,,,,,,,,,,,9,1,9
+1MBARI,1,14,3,,Science,Non-Government,,,,,Monterrey Bay Aquarium Research Institute,,,,,1,,,,,,,,1,1,1
+1MBCTC,1,9,3,,Industry,Non-Government,,,,,Marin Building & Construction Trades Council,,,,,1,,,,,,,,1,1,1
+1MBNEP,1,10,3,,Consortium,Local Government,,,,,Morro Bay Natural Estuary Program,1,,,,,,,,,,,,0,1,0
+1MBRE,1,9,3,,Industry,Non-Government,,,,,Moss Beach Renewable Energy,,,,,,,,1,,,,,1,1,1
+1MCCDA,1,2,3,,Government-County,Government-County,,,,,Marin County Community Development Agency,,,,,1,,,,,,,,1,1,1
+1MCCDC,1,11,3,,NGO,Non-Government,,,,,Marin City Community Development Corporation,,,,,1,,,,,,,,1,1,1
+1MCL,1,11,3,,NGO,Non-Government,,,,,Marin Conservation League,,,,,1,,,,,,,,1,1,1
+1MCWS,1,11,3,,NGO,Non-Government,,,,,Miller Creek Watershed Stewards,,,,,1,,,,,,,,1,1,1
+1ME4,1,11,3,,NGO,Non-Government,,,,,Project ME4,1,,,,,,,,,,,,0,1,0
+1MercedDPH,1,2,3,,Government-County,Government-County,,,,,Merced County  Public Health Department,1,,,,,,,,,,,,0,1,0
+1MGJEP,1,11,3,,NGO,Non-Government,,,,,Movement Generation Justice and Ecology Project,,1,,,,,,,,,,,9,1,9
+1Microsoft,1,9,3,,Industry,Non-Government,,,,,Microsoft,,1,,,,,,,,,,,9,1,9
+1Mirant,1,9,3,,Industry,Non-Government,,,,,Mirant Delta,,,,1,,,,,,,,,1,1,1
+1MLKCo,1,11,3,,NGO,Non-Government,,,,,MLK Coalition,,1,,,,,,,,,,,9,1,9
+1MMWD,1,6,3,,Water Districts,Local Government,,,,,Marin Municipal Water District,,,,,1,,,,,,,,1,1,1
+1Moffatt,1,8,3,,Consultants,Non-Government,,,,,Moffatt and Nichol,,1,,,,,,,,,,,9,1,9
+1MonoDPH,1,2,3,,Government-County,Government-County,,,,,Mono County Public Health Department,1,,,,,,,,,,,,0,1,0
+1MontaraSanD,1,6,3,,Water Districts,Local Government,,,,,Montara Sanitary District,1,,,,,,,,,,,,0,1,0
+1Morrison,1,8,3,,Consultants,Non-Government,,,,,Morrison and Associates,,1,,,,,,,,,,,9,1,9
+1MROSD,1,5,3,,Environmental Districts,Local Government,,,,,Midpeninsula Regional Open Space District,,,,,,,,1,,,,,1,1,1
+1MTC,1,3,3,,Government-State,Government-State,,,,,Metropolitan Transportation Commission,,1,,,,,,,,,,,9,1,9
+1MVS,1,11,3,,NGO,Non-Government,,,,,Marin Valley Streamkeepers,,,,,1,,,,,,,,1,1,1
+1MWDSC,1,6,3,,Water Districts,Local Government,,,,,Metropolitan Water District of Southern California,1,,,,,,,,,,,,0,1,0
+1NAC,1,11,3,,NGO,Non-Government,,,,,National Association of Counties,,1,,,,,,,,,,,9,1,9
+1NAM,1,8,3,,Consultants,Non-Government,,,,,Newcomb Anderson  McCormick,,1,,,,,,,,,,,9,1,9
+1NapaFlood,1,6,3,,Water Districts,Local Government,,,,,Napa County Flood Control and Water Conservation District,,,,,,1,,,,,,,1,1,1
+1NapaMAD,1,5,3,,Environmental Districts,Local Government,,,,,Napa County Mosquito Abatement District,,,,,,1,,,,,,,1,1,1
+1NapaRCD,1,5,3,,Environmental Districts,Local Government,,,,,Napa County Resources Conservation District,,,,,,1,,,,,,,1,1,1
+1NASA,1,4,3,,Government-Federal,Government-Federal,,,,,NASA,,1,,,,,,,,,,,9,1,9
+1NBAA,1,11,3,,NGO,Non-Government,,,,,North Bay Agricultural Alliance,,,,,,,,,,,1,,1,1,1
+1NBCAI,1,10,3,,Consortium,Local Government,,,,,North Bay Climate Adaptation Initiative,,,,,,,,,,,1,,1,1,1
+1NBOP,1,11,3,,NGO,Non-Government,,,,,North Bay Organizing Project,,,,,,,,,,,1,,1,1,1
+1NBWA,1,10,3,,Consortium,Local Government,,,,,North Bay Watershed Association,,,,,1,1,,,,,1,,3,1,3
+1NCIHA,1,15,3,,Other,Non-Government,,,,,Northern Circle Indian Housing Authority,1,,,,,,,,,,,,0,1,0
+1NCLT,1,11,3,,NGO,Non-Government,,,,,Northern California Land Trust,,,1,,,,1,,,,,,2,1,2
+1NCS,1,9,3,,Industry,Non-Government,,,,,North Coast Solar,,,,,,,,,,,1,,1,1,1
+1NDWA,1,6,3,,Water Districts,Local Government,,,,,North Delta Water Agency,,,,,,,,,,1,,,1,1,1
+1Nelson Nygaard,1,8,3,,Consultants,Non-Government,,,,,Nelson-Nygaard,,1,,,,,,,,,,,9,1,9
+1NERRS,1,4,3,,Government-Federal,Government-Federal,,,,,National Estaurine Research Reserve System,,1,,,,,,,,,,,9,1,9
+1NERT,1,1,3,,Government-City,Local Government,,,,,Neighborhood Emergency Response Team,,,,,,,1,,,,,,1,1,1
+1NextEra,1,9,3,,Industry,Non-Government,,,,,NextEra Energy Resources,,1,,,,,,,,,,,9,1,9
+1NEXTracker,1,9,3,,Industry,Non-Government,,,,,NEXTracker,,1,,,,,,,,,,,9,1,9
+1NFWA,1,13,3,,Foundations and Banks,Non-Government,,,,,National Fish and Wildlife Foundation,,1,,,,,,,,,,,9,1,9
+1NHI,1,11,3,,NGO,Non-Government,,,,,National Heritage Institute,,1,,,,,,,,,,,9,1,9
+1NLED,1,9,3,,Industry,Non-Government,,,,,New Light Energy Design,,1,,,,,,,,,,,9,1,9
+1NOAA,1,4,3,,Government-Federal,Government-Federal,,,,,National Oceanic and Atmospheric Administration,,1,,,,,,,,,,,9,1,9
+1NOAA CSC,1,4,3,,Government-Federal,Government-Federal,,,,,National Oceanic and Atmospheric Administration - Coastal Services Center,,,,,,,,,,,,,0,,0
+1NOAA FRC,1,4,3,,Government-Federal,Government-Federal,,,,,National Oceanic and Atmospheric Administration - Fisheries Restoration Center,,1,,,,,,,,,,,9,1,9
+1NOAA OCM,1,4,3,,Government-Federal,Government-Federal,,,,,National Oceanic and Atmospheric Administration - Office for Coastal Management,,1,,,,,,,,,,,9,1,9
+1NOAAFish,1,4,3,,Government-Federal,Government-Federal,,,,,National Oceanic and Atmospheric Administration - Fisheries West Coast Region,,1,,,,,,,,,,,9,1,9
+1Nomad,1,9,3,,Industry,Non-Government,,,,,Nomad Cafe,,,1,,,,,,,,,,1,1,1
+1NOVA,1,11,3,,NGO,Non-Government,,,,,NOVA Workforce Development,,,,,,,,,1,,,,1,1,1
+1NovatoSanD,1,6,3,,Water Districts,Local Government,,,,,Novato Sanitary District,,,,,1,,,,,,,,1,1,1
+1NPS,1,4,3,,Government-Federal,Government-Federal,,,,,National Park Service,,1,,,,,,,,,,,9,1,9
+1NPS OCRP,1,4,3,,Government-Federal,Government-Federal,,,,,National Park Service - Ocean and Coastal Resources Program,,1,,,,,,,,,,,9,1,9
+1NRDC,1,11,3,,NGO,Non-Government,,,,,Natural Resources Defense Council,,1,,,,,,,,,,,9,1,9
+1NRG,1,9,3,,Industry,Non-Government,,,,,NRG Energy,,1,,,,,,,,,,,9,1,9
+1OAK,1,1,3,,Government-City,Local Government,,,,,Oakland International Airport,,,1,,,,,,,,,,1,1,1
+1OakCLT,1,11,3,,NGO,Non-Government,,,,,Oakland Community Land Trust (OakCLT),,,1,,,,,,,,,,1,1,1
+1OakComm,1,11,3,,NGO,Non-Government,,,,,Oakland Community Action Network,,,1,,,,,,,,,,1,1,1
+1OakEmerald,1,11,3,,NGO,Non-Government,,,,,Oakland Emerald Cities,,,1,,,,,,,,,,1,1,1
+1OakFood,1,11,3,,NGO,Non-Government,,,,,Oakland Food Connection,,,1,,,,,,,,,,1,1,1
+1OCAC,1,11,3,,NGO,Non-Government,,,,,Oakland Climate Action Coalition,,,1,,,,,,,,,,1,1,1
+1OMCA,1,12,3,,Educational,Non-Government,,,,,Oakland Museum of California,,,1,,,,,,,,,,1,1,1
+1OneBlock,1,9,3,,Industry,Non-Government,,,,,One Block Off the Grid,,1,,,,,,,,,,,9,1,9
+1oneworld,1,15,3,,Other,Non-Government,,,,,oneworld,1,,,,,,,,,,,,0,1,0
+1OPC,1,3,3,,Government-State,Government-State,,,,,State of California Ocean Protection Council,,1,,,,,,,,,,,9,1,9
+1OpenNeighbor,1,11,3,,NGO,Non-Government,,,,,Open Neighborhoods,1,,,,,,,,,,,,0,1,0
+1OPR,1,3,3,,Government-State,Government-State,,,,,Governor's Office of Planning and Research,,1,,,,,,,,,,,9,1,9
+1Optony,1,8,3,,Consultants,Non-Government,,,,,Optony,,1,,,,,,,,,,,9,1,9
+1Oracle,1,9,3,,Industry,Non-Government,,,,,Oracle,,1,,,,,,,,,,,9,1,9
+1OroLomaSanD,1,6,3,,Water Districts,Local Government,,,,,Oro Loma Sanitary District,,,1,,,,,,,,,,1,1,1
+1OurCity,1,11,3,,NGO,Non-Government,,,,,Our City,,,,,,,,,1,,,,1,1,1
+1Ovatte,1,15,3,,Other,Non-Government,,,,,OvatteJalSerSj,1,,,,,,,,,,,,0,1,0
+1OWLized,1,9,3,,Industry,Non-Government,,,,,OWLized,1,,,,,,,,,,,,0,1,0
+1PacEnv,1,11,3,,NGO,Non-Government,,,,,Pacific Environment,,1,,,,,,,,,,,9,1,9
+1PacInst,1,11,3,,NGO,Non-Government,,,,,Pacific Institute,,1,,,,,,,,,,,9,1,9
+1PBCS,1,14,3,,Science,Non-Government,,,,,Point Blue Conservation Science,,,,,1,,,,,,,,1,1,1
+1PDA EB,1,11,3,,NGO,Non-Government,,,,,Progressive Democrats of America East Bay Chapter,,,1,,,,,,,,,,1,1,1
+1Pepperwood,1,13,3,,Foundations and Banks,Non-Government,,,,,Pepperwood Foundation,,,,,,,,,,,1,,1,1,1
+1PescaMAC,1,15,3,,Other,Non-Government,,,,,PescaMAC,1,,,,,,,,,,,,0,1,0
+1PetalumaCoC,1,9,3,,Industry,Non-Government,,,,,Petaluma Chamber of Commerce,,,,,,,,,,,1,,1,1,1
+1PFT,1,11,3,,NGO,Non-Government,,,,,Pacific Forest Trust,,1,,,,,,,,,,,9,1,9
+1PGE,1,9,3,,Industry,Non-Government,,,,,Pacific Gas and Electric Company,,1,,,,,,,,,,,9,1,9
+1PGOGA,1,11,3,,NGO,Non-Government,,,,,People for a Golden Gate National Recreation Area,,,,,,,1,,,,,,1,1,1
+1PJA,1,11,3,,NGO,Non-Government,,,,,Progressive Jewish Alliance,1,,,,,,,,,,,,0,1,0
+1Placeworks,1,8,3,,Consultants,Non-Government,,,,,"Placeworks, Inc.",,,1,,,,,,,,,,1,1,1
+1PMC,1,8,3,,Consultants,Non-Government,,,,,Pacific Municipal Consultants,,1,,,,,,,,,,,9,1,9
+1PortBenicia,1,1,3,,Government-City,Local Government,,,,,Port of Benicia,,,,,,,,,,1,,,1,1,1
+1PortOakland,1,1,3,,Government-City,Local Government,,,,,Port of Oakland,,,1,,,,,,,,,,1,1,1
+1PortRedwood,1,1,3,,Government-City,Local Government,,,,,Port of Redwood City,,,,,,,,1,,,,,1,1,1
+1PortSF,1,1,3,,Government-City,Local Government,,,,,Port of San Francisco,,,,,,,1,,,,,,1,1,1
+1Powers,1,8,3,,Consultants,Non-Government,,,,,Powers Engineering,,1,,,,,,,,,,,9,1,9
+1PRBO,1,14,3,,Science,Non-Government,,,,,Point Reyes Bird Observatory,,,,,1,,,,,,,,1,1,1
+1PWA,1,8,3,,Consultants,Non-Government,,,,,"Philip Williams and Associates, Ltd.",,1,,,,,,,,,,,9,1,9
+1RAN,1,11,3,,NGO,Non-Government,,,,,Rainforest Action Network,,1,,,,,,,,,,,9,1,9
+1RCD,1,11,3,,NGO,Non-Government,,,,,Resources for Community Development,,,1,,,,,,,,,,1,1,1
+1RCHDC,1,9,3,,Industry,Non-Government,,,,,Rural Communities Housing Development Corporation,1,,,,,,,,,,,,0,1,0
+1RCI,1,11,3,,NGO,Non-Government,,,,,Resilient Communities Initiative,,1,,,,,,,,,,,9,1,9
+1RCPA,1,2,3,,Government-County,Government-County,,,,,Regional Climate Protection Authority,,1,,,,,,,,,,,9,1,9
+1RE volv,1,9,3,,Industry,Non-Government,,,,,RE-volv,,1,,,,,,,,,,,9,1,9
+1RecBoaters,1,11,3,,NGO,Non-Government,,,,,Recreational Boaters of California,,1,,,,,,,,,,,9,1,9
+1RedCross,1,11,3,,NGO,Non-Government,,,,,Red Cross,,1,,,,,,,,,,,9,1,9
+1REEF,1,11,3,,NGO,Non-Government,,,,,Reef Innovations,,1,,,,,,,,,,,9,1,9
+1Releaf,1,11,3,,NGO,Non-Government,,,,,Urban Releaf,,,1,,,,,,,,,,1,1,1
+1RepHonda,1,3,3,,Government-State,Government-State,,,,,Office of Representative Mike Honda,,1,,,,,,,,,,,9,1,9
+1RGSolar,1,9,3,,Industry,Non-Government,,,,,Real Goods Solar,,,,,1,,,,,,,,1,1,1
+1RichBuild,1,12,3,,Educational,Non-Government,,,,,Richmond Build,,,,1,,,,,,,,,1,1,1
+1RichmondPlan,1,8,3,,Consultants,Non-Government,,,,,Planning Association of Richmond,,,,1,,,,,,,,,1,1,1
+1RichmondWIB,1,1,3,,Government-City,Local Government,,,,,Richmond WIB,,,,1,,,,,,,,,1,1,1
+1RLF,1,11,3,,NGO,Non-Government,,,,,Resources Legacy Fund,,1,,,,,,,,,,,9,1,9
+1RLG,1,8,3,,Consultants,Non-Government,,,,,Resources Law Group,,1,,,,,,,,,,,9,1,9
+1RMS,1,9,3,,Industry,Non-Government,,,,,Risk Management Services,,1,,,,,,,,,,,9,1,9
+1Rockefeller,1,13,3,,Foundations and Banks,Non-Government,,,,,Rockefeller Foundation,,,,1,,,,,,,,,1,1,1
+1RockefellerBros,1,13,3,,Foundations and Banks,Non-Government,,,,,Rockefeller Brothers Fund,,1,,,,,,,,,,,9,1,9
+1RossSand,1,6,3,,Water Districts,Local Government,,,,,Ross Valley Sanitary District,,,,,1,,,,,,,,1,1,1
+1RPP,1,8,3,,Consultants,Non-Government,,,,,Resource Performance Partners,,1,,,,,,,,,,,9,1,9
+1RSEC,1,11,3,,NGO,Non-Government,,,,,Rising Sun Energy Center,,,1,,,,,,,,,,1,1,1
+1RTOak,1,11,3,,NGO,Non-Government,,,,,Rebuilding Together Oakland,,,1,,,,,,,,,,1,1,1
+1RTSF,1,11,3,,NGO,Non-Government,,,,,Rebuilding Together San Francisco,,,,,,,1,,,,,,1,1,1
+1RVWFPP,1,2,3,,Government-County,Government-County,,,,,Ross Valley Watershed and Flood Protection Program,,,,,1,,,,,,,,1,1,1
+1S&E,1,8,3,,Consultants,Non-Government,,,,,Schaaf & Wheeler,,1,,,,,,,,,,,9,1,9
+1SacDPH,1,2,3,,Government-County,Government-County,,,,,Sacramento  County Public Health Department,1,,,,,,,,,,,,0,1,0
+1Salesforce,1,9,3,,Industry,Non-Government,,,,,Salesforce.com,,,,,,,,,,,,1,0,1,0
+1SanctExpCent,1,2,3,,Government-County,Government-County,,,,,Sanctuary Exploration Center,1,,,,,,,,,,,,0,1,0
+1SanDiegoDPH,1,2,3,,Government-County,Government-County,,,,,San DiegoCounty Public Health Department,1,,,,,,,,,,,,0,1,0
+1SanMateoDPH,1,2,3,,Government-County,Government-County,,,,,County of San Mateo Department of Public Health,,,,,,,,1,,,,,1,1,1
+1SanMateoParks,1,2,3,,Government-County,Government-County,,,,,County of San Mateo Parks and Recreation,,,,,,,,1,,,,,1,1,1
+1SanMateoPW,1,2,3,,Government-County,Government-County,,,,,County of San Mateo Planning and Building Department,,,,,,,,1,,,,,1,1,1
+1SanMateoRCD,1,2,3,,Government-County,Government-County,,,,,San Mateo Department of Public Works,,,,,,,,1,,,,,1,1,1
+1SaveBay,1,11,3,,NGO,Non-Government,,,,,Save the Bay,,1,,,,,,,,,,,9,1,9
+1SaveWaves,1,11,3,,NGO,Non-Government,,,,,Save the Waves Coalition,,1,,,,,,,,,,,9,1,9
+1SBSeaCent,1,12,3,,Educational,Non-Government,,,,,Santa Barbara Museum of Naturl History Sea Center,1,,,,,,,,,,,,0,1,0
+1SC,1,12,3,,Educational,Non-Government,,,,,Skyline College,,,,,,,,1,,,,,1,1,1
+1SCAC,1,2,3,,Government-County,Government-County,,,,,Sonoma County Agricultural Commissioner,,,,,,,,,,,1,,1,1,1
+1SCAPC,1,10,3,,Consortium,Local Government,,,,,Santa Clara Association of Planning Officials,,,,,,,,,1,,,,1,1,1
+1SCDES,1,2,3,,Government-County,Government-County,,,,,Santa Clara County Department of Emergency Services,,,,,,,,,1,,,,1,1,1
+1SCDHS,1,2,3,,Government-County,Government-County,,,,,Sonoma County Department of Health Services,,,,,,,,,,,1,,1,1,1
+1SCDPH,1,2,3,,Government-County,Government-County,,,,,Santa Clara Public Health Dept,,,,,,,,,1,,,,1,1,1
+1SCDRM,1,2,3,,Government-County,Government-County,,,,,Solano County Department of Resource Management,,,,,,,,,,1,,,1,1,1
+1SCEIP,1,2,3,,Government-County,Government-County,,,,,Sonoma County Energy Independence Program,,,,,,,,,,,1,,1,1,1
+1SCES,1,2,3,,Government-County,Government-County,,,,,Sonoma County Energy and Sustainability,,,,,,,,,,,1,,1,1,1
+1SCEXECS,1,2,3,,Government-County,Government-County,,,,,Sonoma County Executives Assocation,,,,,,,,,,,1,,1,1,1
+1SCH,1,11,3,,NGO,Non-Government,,,,,South County Housing,,,,,,,,,1,,,,1,1,1
+1Schneider,1,9,3,,Industry,Non-Government,,,,,Schneider Electric,,1,,,,,,,,,,,9,1,9
+1SCISD,1,2,3,,Government-County,Government-County,,,,,Sonoma County Information Systems Department,,,,,,,,,,,1,,1,1,1
+1SCOS,1,2,3,,Government-County,Government-County,,,,,Santa Clara Office of Sustainability,,,,,,,,,1,,,,1,1,1
+1SCOSA,1,2,3,,Government-County,Government-County,,,,,Santa Clara Open Space Authority,,,,,,,,,1,,,,1,1,1
+1SCPD,1,2,3,,Government-County,Government-County,,,,,Santa Clara Planning Department,,,,,,,,,1,,,,1,1,1
+1SCRCPA,1,2,3,,Government-County,Government-County,,,,,Sonoma County Regional Climate Protection Authority,,,,,,,,,,,1,,1,1,1
+1Scripps,1,14,3,,Science,Non-Government,,,,,UC San Diego Scripps,1,,,,,,,,,,,,0,1,0
+1SCTLUC,1,2,3,,Government-County,Government-County,,,,,Sonoma County Transportation and Land Use Coalition,,,,,,,,,,,1,,1,1,1
+1SCVHA,1,5,3,,Environmental Districts,Local Government,,,,,Santa Clara Valley Habitat Agency,,,,,,,,,1,,,,1,1,1
+1SCVWD,1,6,3,,Water Districts,Local Government,,,,,Santa Clara Valley Water District,,,,,,,,,1,,,,1,1,1
+1SCWA,1,2,3,,Government-County,Government-County,,,,,Sonoma County Water Agency,,,,,,,,,,,1,,1,1,1
+1SDA,1,8,3,,Consultants,Non-Government,,,,,Stichting Delta Alliance,,1,,,,,,,,,,,9,1,9
+1SDE,1,8,3,,Consultants,Non-Government,,,,,Sherwood Design Engineers,,1,,,,,,,,,,,9,1,9
+1SDSU,1,14,3,,Science,Non-Government,,,,,San Diego State University,1,,,,,,,,,,,,0,1,0
+1SeaGrant,1,14,3,,Science,Non-Government,,,,,Sea Grant USC,1,,,,,,,,,,,,0,1,0
+1SEB,1,11,3,,NGO,Non-Government,,,,,Solarize East Bay,,,1,,,,,,,,,,1,1,1
+1SEC,1,14,3,,Science,Non-Government,,,,,Sonoma Ecology Center,,,,,,,,,,,1,,1,1,1
+1SEI,1,11,3,,NGO,Non-Government,,,,,Strategic Energy Innovations,,1,,,,,,,,,,,9,1,9
+1Sensity,1,9,3,,Industry,Non-Government,,,,,Sensity,,1,,,,,,,,,,,9,1,9
+1SF Adapt,1,1,3,,Government-City,Local Government,,,,,SF Adapt,,,,,,,1,,,,,,1,1,1
+1SFBayJV,1,10,3,,Consortium,Local Government,,,,,San Francisco Bay Joint Venture,,1,,,,,,,,,,,9,1,9
+1SFBBO,1,14,3,,Science,Non-Government,,,,,San Francisco Bay Bird Observatory,,1,,,,,,,,,,,9,1,9
+1SFBRA,1,6,3,,Water Districts,Local Government,,,,,San Francisco Bay Restoration Authority,,1,,,,,,,,,,,9,1,9
+1SFBWQIF,1,13,3,,Foundations and Banks,Non-Government,,,,,San Francisco Bay Water Quality Improvement Fund,,1,,,,,,,,,,,9,1,9
+1SFCJPA,1,7,3,,Government-Joint Powers,Local Government,,,,,San Francisquito Creek Joint Powers Authority,,,,,,,,1,1,,,,2,1,2
+1SFCommPow,1,11,3,,NGO,Non-Government,,,,,San Francisco Community Power,,,,,,,1,,,,,,1,1,1
+1SFCWA,1,7,3,,Government-Joint Powers,Local Government,,,,,State and Federal Contractors Water Agency,,1,,,,,,,,,,,9,1,9
+1SFDEM,1,2,3,,Government-County,Government-County,,,,,San Francisco Department of Emergency Management,,,,,,,1,,,,,,1,1,1
+1SFDEnv,1,2,3,,Government-County,Government-County,,,,,San Francisco Department of Environment,,,,,,,1,,,,,,1,1,1
+1SFDPH,1,2,3,,Government-County,Government-County,,,,,San Francisco County Public Health Department,,,,,,,1,,,,,,1,1,1
+1SFEI,1,11,3,,NGO,Non-Government,,,,,San Francisco Estuary Institute,,,,,,,1,,,,,,1,1,1
+1SFEnvironment,1,2,3,,Government-County,Government-County,,,,,San Franciso Department of Environment,,,,,,,1,,,,,,1,1,1
+1SFEP,1,11,3,,NGO,Non-Government,,,,,San Francisco Estuary Partnership,,1,,,,,,,,,,,9,1,9
+1SFF,1,13,3,,Foundations and Banks,Non-Government,,,,,San Francisco Foundation,,,,,,,1,,,,,,1,1,1
+1SFLAFCo,1,2,3,,Government-County,Government-County,,,,,San Francisco Local Agency Formation Commission (LAFCo),,,,,,,1,,,,,,1,1,1
+1SFMTA,1,2,3,,Government-County,Government-County,,,,,San Francisco Metropolitan Transportation Agency,,,,,,,1,,,,,,1,1,1
+1SFNERR,1,14,3,,Science,Non-Government,,,,,San Francisco Bay National Estuarine Research Reserve,,1,,,,,,,,,,,9,1,9
+1SFO,1,1,3,,Government-County,Government-County,,,,,San Francisco International Airport,,,,,,,1,,,,,,1,1,1
+1SFOEWD,1,2,3,,Government-County,Government-County,,,,,San Francisco Office of Economic and Workforce Development,,,,,,1,,,,,,,1,1,1
+1SFParks,1,2,3,,Government-County,Government-County,,,,,San Francisco Recreation and Parks Department,,,,,,,1,,,,,,1,1,1
+1SFPlanning,1,2,3,,Government-County,Government-County,,,,,San Francisco Planning Department,,,,,,,1,,,,,,1,1,1
+1SFPUC,1,2,3,,Government-County,Government-County,,,,,San Francisco Public Utilities Commission,,,,,,,1,,,,,,1,1,1
+1SFPW,1,2,3,,Government-County,Government-County,,,,,San Francisco Public Works,,,,,,,1,,,,,,1,1,1
+1SFS,1,9,3,,Industry,Non-Government,,,,,Sun's Free Solar,,1,,,,,,,,,,,9,1,9
+1SFSU,1,14,3,,Science,Non-Government,,,,,San Francisco State University,,,,,,,1,,,,,,1,1,1
+1SFTrail,1,11,3,,NGO,Non-Government,,,,,San Francisco Bay Trail Project,,1,,,,,,,,,,,9,1,9
+1SFZooSoc,1,14,3,,Science,Non-Government,,,,,San Francisco Zoological Society,,1,,,,,,,,,,,9,1,9
+1SGC,1,3,3,,Government-State,Government-State,,,,,California Strategic Growth Council,,1,,,,,,,,,,,9,1,9
+1SGIA,1,4,3,,Government-Federal,Government-Federal,,,,,U.S. Environmental Protection Agency Smart Growth Implementation Assistance program,,1,,,,,,,,,,,9,1,9
+1ShastaDPH,1,2,3,,Government-County,Government-County,,,,,Shasta County Public Health Department,1,,,,,,,,,,,,0,1,0
+1ShoreUp,1,10,3,,Consortium,Local Government,,,,,ShoreUp Marin,,,,,1,,,,,,,,1,1,1
+1SHPO,1,3,3,,Government-State,Government-State,,,,,State Historical Preservation Office,,1,,,,,,,,,,,9,1,9
+1SHRP2,1,14,3,,Science,Non-Government,,,,,Strategic Highway Research Program 2,,1,,,,,,,,,,,9,1,9
+1Siemens,1,9,3,,Industry,Non-Government,,,,,Siemens,,1,,,,,,,,,,,9,1,9
+1Sierra,1,11,3,,NGO,Non-Government,,,,,Sierra Club,,1,,,,,,,,,,,9,1,9
+1SierraBay,1,11,3,,NGO,Non-Government,,,,,Sierra Club Bay Chapter,,1,,,,,,,,,,,9,1,9
+1Sightworks,1,8,3,,Consultants,Non-Government,,,,,Sightworks,1,,,,,,,,,,,,0,1,0
+1SJSCRWWF,1,6,3,,Water Districts,Local Government,,,,,San Jose Santa Clara Regional Wastewater Facility,,,,,,,,,1,,,,1,1,1
+1SJSU,1,1,3,,Government-City,Local Government,,,,,San Jose State University,,,,,,,,,1,,,,1,1,1
+1SLC,1,3,3,,Government-State,Government-State,,,,,State Lands Commission,,1,,,,,,,,,,,9,1,9
+1SLDMWA,1,6,3,,Water Districts,Local Government,,,,,San Luis & Delat-Mendota Water Authority,,,1,,,,,,,,,,1,1,1
+1SLODPH,1,2,3,,Government-County,Government-County,,,,,San Luis Obispo County Public Health Department,1,,,,,,,,,,,,0,1,0
+1SLT,1,11,3,,NGO,Non-Government,,,,,San Luis Valley Renewable Communities Alliance,1,,,,,,,,,,,,0,1,0
+1SLVRCA,1,11,3,,NGO,Non-Government,,,,,San Mateo County League for Coastside Protection,,,,,,,,1,,,,,1,1,1
+1SMCLCP,1,2,3,,Government-County,Government-County,,,,,San Mateo County Public Works,,,,,,,,1,,,,,1,1,1
+1SMCPW,1,5,3,,Environmental Districts,Local Government,,,,,San Mateo County Resource Conservation District,,,,,,,,1,,,,,1,1,1
+1SMCRCD,1,2,3,,Government-County,Government-County,,,,,San Mateo Countywide Water Pollution Prevention Program,,,,,,,,1,,,,,1,1,1
+1SMDC,1,12,3,,Educational,Non-Government,,,,,Seymour Marine Discovery Center,1,,,,,,,,,,,,0,1,0
+1SMHarbor,1,6,3,,Water Districts,Local Government,,,,,San Mateo County Harbor District,,,,,,,,1,,,,,1,1,1
+1SNB,1,11,3,,NGO,Non-Government,,,,,Sustainable North Bay,,,,,,,,,,,1,,1,1,1
+1SolanoWater,1,2,3,,Government-County,Government-County,,,,,Solano County Water Agency,,,,,,,,,,1,,,1,1,1
+1SolarGI,1,11,3,,NGO,Non-Government,,,,,Solar Gardens Institute,1,,,,,,,,,,,,0,1,0
+1SolarLI,1,9,3,,Industry,Non-Government,,,,,Solar Living Institute,1,,,,,,,,,,,,0,1,0
+1SolarM,1,9,3,,Industry,Non-Government,,,,,Solar Mosaic,,1,,,,,,,,,,,9,1,9
+1SolarRich,1,11,3,,NGO,Non-Government,,,,,Solar Richmond,,,,1,,,,,,,,,1,1,1
+1SolarSC,1,11,3,,NGO,Non-Government,,,,,Solar Sonoma County,,,,,,,,,,,1,,1,1,1
+1SolarSipper,1,9,3,,Industry,Non-Government,,,,,SolarSipper,1,,,,,,,,,,,,0,1,0
+1SonomaDHS,1,2,3,,Government-County,Government-County,,,,,Sonoma County Department of Health Services,,,,,,,,,,,1,,1,1,1
+1SonomaLT,1,11,3,,NGO,Non-Government,,,,,Sonoma Land Trust,,,,,,,,,,,1,,1,1,1
+1SonomaOSD,1,5,3,,Environmental Districts,Local Government,,,,,Sonoma County Agricultural Preservation and Open Space District,,,,,,,,,,,1,,1,1,1
+1SonomaSanD,1,2,3,,Government-County,Government-County,,,,,Sonoma County Transportation and Public Works,,,,,,,,,,,1,,1,1,1
+1SonomaTrans,1,6,3,,Water Districts,Local Government,,,,,Sonoma Valley County Sanitation District,,,,,,,,,,,1,,1,1,1
+1SOS,1,11,3,,NGO,Non-Government,,,,,Save Our Shores,,,,,,,,,,,1,,1,1,1
+1SotoyomeRCD,1,5,3,,Environmental Districts,Local Government,,,,,Sotoyome-Southern Sonoma RCD,,,,,,,,,,,1,,1,1,1
+1SPOKES,1,11,3,,NGO,Non-Government,,,,,Richmond SPOKES,,,,1,,,,,,,,,1,1,1
+1Spruce,1,13,3,,Foundations and Banks,Non-Government,,,,,Spruce Finance,,1,,,,,,,,,,,9,1,9
+1SPUR,1,11,3,,NGO,Non-Government,,,,,SPUR,,,1,,,,1,,1,,,,3,1,3
+1SRL,1,11,3,,NGO,Non-Government,,,,,Save the Redwoods League,,,,,1,,1,,1,,,,3,1,3
+1SRSchools,1,12,3,,Educational,Non-Government,,,,,Santa Rosa City School,,,,,,,,,,,1,,1,1,1
+1SS,1,9,3,,Industry,Non-Government,,,,,Sustainergy Systems,1,,,,,,,,,,,,0,1,0
+1SSMC,1,11,3,,NGO,Non-Government,,,,,Sustainable San Mateo County,,,,,,,,1,,,,,1,1,1
+1SSRCD,1,5,3,,Environmental Districts,Local Government,,,,,Southern Sonoma Resource Conservation District,,,,,,,,,,,1,,1,1,1
+1SSU,1,14,3,,Science,Non-Government,,,,,Sonoma State University,,,,,,,,,,,1,,1,1,1
+1SSV,1,8,3,,Consultants,Non-Government,,,,,Sustainable Silicon Valley,,,,,,,,,1,,,,1,1,1
+1Stanford,1,14,3,,Science,Non-Government,,,,,Stanford University,,,,,,,,,1,,,,1,1,1
+1StopWaste,1,2,3,,Government-County,Government-County,,,,,StopWaste,,,1,,,,,,,,,,1,1,1
+1STP,1,11,3,,NGO,Non-Government,,,,,Swords to Plowshares,,1,,,,,,,,,,,9,1,9
+1STRAW,1,12,3,,Educational,Non-Government,,,,,Students and Teachers Restoring a Watershed,,,,,,,,,,1,,,1,1,1
+1SuisunRCD,1,5,3,,Environmental Districts,Local Government,,,,,Suisun Resource Conservation District,,,,,,,,,,1,,,1,1,1
+1SunEdison,1,9,3,,Industry,Non-Government,,,,,SunEdison Inc.,,1,,,,,,,,,,,9,1,9
+1SunEnergy,1,9,3,,Industry,Non-Government,,,,,SunEnergy,,1,,,,,,,,,,,9,1,9
+1Sungevity,1,9,3,,Industry,Non-Government,,,,,Sungevity,,1,,,,,,,,,,,9,1,9
+1SunLight,1,9,3,,Industry,Non-Government,,,,,Sun Light & Power,,1,,,,,,,,,,,9,1,9
+1Sunpower,1,9,3,,Industry,Non-Government,,,,,Sunpower,,1,,,,,,,,,,,9,1,9
+1Sunrun,1,9,3,,Industry,Non-Government,,,,,Sunrun,,1,,,,,,,,,,,9,1,9
+1SurfPulse,1,11,3,,NGO,Non-Government,,,,,SurfPulse,,1,,,,,,,,,,,9,1,9
+1SustEcoLaw,1,11,3,,NGO,Non-Government,,,,,Sustainable Economies Law Center,,1,,,,,,,,,,,9,1,9
+1SustEcoSol,1,15,3,,Other,Non-Government,,,,,Sustainable Economic Solutions,,1,,,,,,,,,,,9,1,9
+1SustEntCon,1,15,3,,Other,Non-Government,,,,,Sustainable Enterprise Conference,,1,,,,,,,,,,,9,1,9
+1SustSurf,1,11,3,,NGO,Non-Government,,,,,Sustainable Surf,,1,,,,,,,,,,,9,1,9
+1Sutter,1,9,3,,Industry,Non-Government,,,,,Sutter Health Facility Planning & Development,,1,,,,,,,,,,,9,1,9
+1SVCF,1,13,3,,Foundations and Banks,Non-Government,,,,,Silicon Valley Community Foundation,,,,,,,,,1,,,,1,1,1
+1SVJV,1,11,3,,NGO,Non-Government,,,,,Silicon Valley Joint Venture,,,,,,,,,1,,,,1,1,1
+1SVLG,1,9,3,,Industry,Non-Government,,,,,Silicon Valley Leadership Group,,,,,,,,,1,,,,1,1,1
+1SWRCB,1,3,3,,Government-State,Government-State,,,,,California State Water Resources Control Board,,1,,,,,,,,,,,9,1,9
+1TBC3,1,14,3,,Science,Non-Government,,,,,Terrestrial Biodiversity & Climate Change Collaborative ,,1,,,,,,,,,,,9,1,9
+1TBMC,1,10,3,,Consortium,Local Government,,,,,Tomales Bay Watershed Council,,,,,1,,,,,,,,1,1,1
+1TDC,1,8,3,,Consultants,Non-Government,,,,,TDC Environmental,,1,,,,,,,,,,,9,1,9
+1TGACRT,1,11,3,,NGO,Non-Government,,,,,The GRID Alternatives Climate Ride Team,,,,,1,,1,,,,,,2,1,2
+1theMMOB,1,11,3,,NGO,Non-Government,,,,,Mainstreet Moms Organize or Bust (theMMOB.org),,1,,,,,,,,,,,9,1,9
+1TID,1,6,3,,Water Districts,Local Government,,,,,Turlock Irrigation District,1,,,,,,,,,,,,0,1,0
+1TLC,1,11,3,,NGO,Non-Government,,,,,The Tamalpais Lands Collaborative,,,,,1,,,,,,,,1,1,1
+1TNC,1,11,3,,NGO,Non-Government,,,,,The Nature Conservancy,,1,,,,,,,,,,,9,1,9
+1Town Green,1,8,3,,Consultants,Non-Government,,,,,Town-Green,,,,,,,,,,,1,,1,1,1
+1Town of Corte Madera,1,1,3,,Government-City,Local Government,,,,,Town of Corte Madera,,,,,1,,,,,,,,1,1,1
+1Town of San Anselmo,1,1,3,,Government-City,Local Government,,,,,Town of San Anselmo,,,,,1,,,,,,,,1,1,1
+1ToyotaGreen,1,13,3,,Foundations and Banks,Non-Government,,,,,Toyota Together Green Grant,,1,,,,,,,,,,,9,1,9
+1TRANSDEF,1,11,3,,NGO,Non-Government,,,,,"TRANSDEF, the Transportation Solutions Defense and Education Fund",,1,,,,,,,,,,,9,1,9
+1TRC,1,14,3,,Science,Non-Government,,,,,Transportation Research Board,,1,,,,,,,,,,,9,1,9
+1TRNERR,1,14,3,,Science,Non-Government,,,,,Tijuana River National Estuarine Research Reserve,1,,,,,,,,,,,,0,1,0
+1TulareDPH,1,2,3,,Government-County,Government-County,,,,,Tulare County  Public Health Department,1,,,,,,,,,,,,0,1,0
+1UAS,1,11,3,,NGO,Non-Government,,,,,Urban Alliance for Sustainability,,1,,,,,,,,,,,9,1,9
+1UC Berkeley,1,14,3,,Science,Non-Government,,,,,UC Berkeley,,,1,,,,,,,,,,1,1,1
+1UC Davis,1,14,3,,Science,Non-Government,,,,,UC Davis,1,,,,,,,,,,,,0,1,0
+1UCCoopMarin,1,14,3,,Science,Non-Government,,,,,UC Cooperative Extension Marin,,,,,1,,,,,,,,1,1,1
+1UCSC,1,14,3,,Science,Non-Government,,,,,UC Santa Cruz,1,,,,,,,,,,,,0,1,0
+1ULIRF,1,15,3,,Other,Non-Government,,,,,Urban Land Institute Resiliency Forum,,1,,,,,,,,,,,9,1,9
+1UMaryland,1,14,3,,Science,Non-Government,,,,,University of Maryland,1,,,,,,,,,,,,0,1,0
+1UNESCO IDE,1,4,3,,Government-Federal,Government-Federal,,,,,UNESCO,,1,,,,,,,,,,,9,1,9
+1UnionSanD,1,6,3,,Water Districts,Local Government,,,,,Union Sanitary District,,,1,,,,,,,,,,1,1,1
+1UofO,1,14,3,,Science,Non-Government,,,,,University of Oregon,1,,,,,,,,,,,,0,1,0
+1UofW,1,14,3,,Science,Non-Government,,,,,University of Washington,1,,,,,,,,,,,,0,1,0
+1URS,1,8,3,,Consultants,Non-Government,,,,,URS Corporation,,1,,,,,,,,,,,9,1,9
+1USACE,1,4,3,,Government-Federal,Government-Federal,,,,,US Army Corps of Engineers,,1,,,,,,,,,,,9,1,9
+1USB,1,13,3,,Foundations and Banks,Non-Government,,,,,US Bank,,1,,,,,,,,,,,9,1,9
+1USBR,1,4,3,,Government-Federal,Government-Federal,,,,,US Bureau of Reclamation,,1,,,,,,,,,,,9,1,9
+1USCGS,1,4,3,,Government-Federal,Government-Federal,,,,,United States Coast Guard Service,,1,,,,,,,,,,,9,1,9
+1USDA  NRCS,1,4,3,,Government-Federal,Government-Federal,,,,,US Department of Agriculture Natural Resources Conservation Service,,1,,,,,,,,,,,9,1,9
+1USDN,1,10,3,,Consortium,Local Government,,,,,Urban Sustainability Directors Network,,1,,,,,,,,,,,9,1,9
+1USDOI,1,4,3,,Government-Federal,Government-Federal,,,,,US Department of Interior,,1,,,,,,,,,,,9,1,9
+1USF,1,14,3,,Science,Non-Government,,,,,University of San Francisco,,,,,,,1,,,,,,1,1,1
+1USFS,1,4,3,,Government-Federal,Government-Federal,,,,,US Forest Service,,1,,,,,,,,,,,9,1,9
+1USFWS,1,4,3,,Government-Federal,Government-Federal,,,,,US Fish and Wildlife Service,,1,,,,,,,,,,,9,1,9
+1USGS,1,4,3,,Government-Federal,Government-Federal,,,,,United States Geological Survey,,1,,,,,,,,,,,9,1,9
+1USGS  EHP,1,4,3,,Government-Federal,Government-Federal,,,,,U.S. Geological Survey Earthquake Hazards Program External Research Support program,,1,,,,,,,,,,,9,1,9
+1USGS  PCMSC,1,4,3,,Government-Federal,Government-Federal,,,,,US Geological Survey - Pacific Coastal and Marine Science Center,,1,,,,,,,,,,,9,1,9
+1USGS  WERC,1,4,3,,Government-Federal,Government-Federal,,,,,United States Geological Survey - Western Ecological Research Center,,1,,,,,,,,,,,9,1,9
+1USGS MP,1,4,3,,Government-Federal,Government-Federal,,,,,US Geological Survey - Menlo Park,,1,,,,,,,,,,,9,1,9
+1USGS PSA,1,4,3,,Government-Federal,Government-Federal,,,,,USGS-PSA,,1,,,,,,,,,,,9,1,9
+1USGS WSC,1,4,3,,Government-Federal,Government-Federal,,,,,US Geological Survey - Western Science Center,,1,,,,,,,,,,,9,1,9
+1Uwisconsin,1,14,3,,Science,Non-Government,,,,,University of Wisconsin,1,,,,,,,,,,,,0,1,0
+1Valero,1,9,3,,Industry,Non-Government,,,,,Valero,,1,,,,,,,,,,,9,1,9
+1VallejoFlood,1,6,3,,Water Districts,Local Government,,,,,Vallejo Sanitation and Flood Control District,,,,,,,,,,1,,,1,1,1
+1Verizon,1,9,3,,Industry,Non-Government,,,,,Verizon Wirelesss,,1,,,,,,,,,,,9,1,9
+1Visa,1,9,3,,Industry,Non-Government,,,,,Visa,,1,,,,,,,,,,,9,1,9
+1Vivint,1,9,3,,Industry,Non-Government,,,,,Vivint Solar,,1,,,,,,,,,,,9,1,9
+1VLEAP,1,11,3,,NGO,Non-Government,,,,,Valley LEAP,1,,,,,,,,,,,,0,1,0
+1VMC,1,2,3,,Government-County,Government-County,,,,,Valley Medical Center,,,,,,,,,1,,,,1,1,1
+1W2F,1,1,3,,Government-City,Local Government,,,,,Work2Future,,,,,,,,,1,,,,1,1,1
+1Waterplanet,1,15,3,,Other,Non-Government,,,,,Waterplanet Alliance,,1,,,,,,,,,,,9,1,9
+1WBSanD,1,6,3,,Water Districts,Local Government,,,,,West Bay Sanitary District,,,,,,,,1,1,,,,2,1,2
+1WCB,1,3,3,,Government-State,Government-State,,,,,Wildlife Conservation Board,1,,,,,,,,,,,,0,1,0
+1WCS,1,11,3,,NGO,Non-Government,,,,,Wildlife Conservation Society,1,,,,,,,,,,,,0,1,0
+1WEM,1,11,3,,NGO,Non-Government,,,,,Women's Energy Matters,1,,,,,,,,,,,,0,1,0
+1WETA,1,6,3,,Water Districts,Local Government,,,,,Water Emergency Transportation Authority,1,,,,,,,,,,,,0,1,0
+1WFF,1,13,3,,Foundations and Banks,Non-Government,,,,,Wells Fargo Foundation,1,,,,,,,,,,,,0,1,0
+1WICC,1,11,3,,NGO,Non-Government,,,,,Water Information Center and Conservancy,1,,,,,,,,,,,,0,1,0
+1Winston,1,15,3,,Other,Non-Government,,,,,Winston and Strawn LLP,1,,,,,,,,,,,,0,1,0
+1WOEIP,1,11,3,,NGO,Non-Government,,,,,West Oakland Environmental Indicators Project,,,1,,,,,,,,,,1,1,1
+1WORKS,1,11,3,,NGO,Non-Government,,,,,Empowerment WORKS,,1,,,,,,,,,,,9,1,9
+1WQCB,1,6,3,,Water Districts,Local Government,,,,,San Francisco Bay Regional Water Quality Control Board,,,,,,,1,,,,,,1,1,1
+1WWD,1,6,3,,Water Districts,Local Government,,,,,Westlands Water District,1,,,,,,,,,,,,0,1,0
+1WWR,1,8,3,,Consultants,Non-Government,,,,,Wetlands and Water Resources,,1,,,,,,,,,,,9,1,9
+1YCD,1,11,3,,NGO,Non-Government,,,,,Young Community Developers ,,,,,,,1,,,,,,1,1,1
+1YSC,1,9,3,,Industry,Non-Government,,,,,Your Solar Connection,1,,,,,,,,,,,,0,1,0
+1YUCA,1,11,3,,NGO,Non-Government,,,,,Youth United for Community Action ,,,,,,,,1,1,,,,2,1,2
+1Zanker,1,9,3,,Industry,Non-Government,,,,,Zanker Recycling,,,,,,,,,1,,,,1,1,1
+1Zentner,1,8,3,,Consultants,Non-Government,,,,,Zentner and Zentner Associates,,1,,,,,,,,,,,9,1,9
+2A Slow Rising Emergency:Sea Level Rise: Santa Clara County Civil Grand Jury Final Report,2,91,4,,Flooding,,2014,,2,,2 A Slow Rising Emergency:Sea Level Rise: 2014-2015 Santa Clara County Civil Grand Jury Final Report,,,,,,,,,1,,,,1,1,1
+2Alameda County ART Subregional Project,2,91,4,,Flooding,,2011,2013,5,,2Alameda County ART Subregional Project,,,1,,,,,,,,,,1,1,1
+2Alameda County Energy Council Joint Powers Authority ,2,93,4,,Energy,,2013,,3,,2Alameda County Energy Council Joint Powers Authority ,,,1,,,,,,,,,,1,1,1
+2Alameda County Sea Level Rise Shoreline Vulnerability Assessment ,2,91,4,,Flooding,,2014,2014,2,,2Alameda County Sea Level Rise Shoreline Vulnerability Assessment ,,,1,,,,,,,,,,1,1,1
+2Aramburu Island Coarse Beach Restoration,2,91,4,,Flooding,,2011,2012,5,,2Aramburu Island Coarse Beach Restoration,,,,,1,,,,,,,,1,1,1
+2ART Portfolio Resilient Shorelines Partnership Project,2,91,4,,Flooding,,2013,2014,3,,2ART Portfolio Resilient Shorelines Partnership Project,,,1,,,,,,,,,,1,1,1
+"2ART Portfolio Strong Housing, Safer Communities",2,91,4,,Flooding,,2013,2015,3,,"2ART Portfolio Strong Housing, Safer Communities",,1,,,,,,,,,,,9,1,9
+2Bay Area Bridge to the Clean Economy,2,93,4,,Energy,,2012,,4,,2Bay Area Bridge to the Clean Economy,,1,,,,,,,,,,,9,1,9
+2Bay Area Ecosystems Climate Change Consortium,2,94,4,,Natural Systems,,2011,,5,,2Bay Area Ecosystems Climate Change Consortium,,1,,,,,,,,,,,9,1,9
+2Bay Area Integrated Regional Water Management Plan,2,92,4,,Water,,2002,,14,,2Bay Area Integrated Regional Water Management Plan,,1,,,,,,,,,,,9,1,9
+2Bay Area Regional Desalination Project,2,92,4,,Water,,2003,,13,,2Bay Area Regional Desalination Project,,1,,,,,,,,,,,9,1,9
+2Bay Area Regional Health Inequities Initiative,2,95,4,,Health,,2002,,14,,2Bay Area Regional Health Inequities Initiative,,1,,,,,,,,,,,9,1,9
+2Bay Area Regional Reliability,2,92,4,,Water,,2014,,2,,2Bay Area Regional Reliability Project (BARR),,,1,1,1,,1,1,1,,,,6,1,6
+2Bay Area Smart Energy 2020,2,93,4,,Energy,,2012,,4,,2Bay Area Smart Energy 2020,,1,,,,,,,,,,,9,1,9
+2Bay Delta Conservation Plan,2,92,4,,Water,,2009,,7,,2Bay Delta Conservation Plan,,1,,,,,,,,,,,9,1,9
+2Bay Subtidal Habitat Goals Project,2,94,4,,Natural Systems,,2010,,6,,2Bay Subtidal Habitat Goals Project,,1,,,,,,,,,,,9,1,9
+2Baylands and Climate Change Report,2,94,4,,Natural Systems,,2015,2015,1,,2Baylands and Climate Change Report,,1,,,,,,,,,,,9,1,9
+2Baylands Ecosystems Habitat Goals Project,2,94,4,,Natural Systems,,1999,,17,,2Baylands Ecosystems Habitat Goals Project,,1,,,,,,,,,,,9,1,9
+2BayREN,2,93,4,,Energy,,2014,,2,,2BayREN,,1,,,,,,,,,,,9,1,9
+2BCDC Fill Policy,2,91,4,,Flooding,,2013,,3,,2BCDC Fill Policy,,1,,,,,,,,,,,9,1,9
+2Benicia Adaptation Plan and Community Sustainability Commission,2,96,4,,Multi-Local,,2012,,4,,2Benicia Adaptation Plan and Community Sustainability Commission,,,,,,,,,,1,,,1,1,1
+2Benicia Climate Change Vulnerability Assessment,2,96,4,,Multi-Local,,2014,,2,,2Benicia Climate Change Vulnerability Assessment,,,,,,,,,,1,,,1,1,1
+2Berkeley Hazard Mitigation Plan,2,96,4,,Multi-Local,,2014,,2,,2Berkeley Hazard Mitigation Plan,,,1,,,,,,,,,,1,1,1
+2Berkeley Resilience Strategy,2,96,4,,Multi-Local,,2014,,2,,2Berkeley Resilience Strategy,,,1,,,,,,,,,,1,1,1
+2Bothin Marsh Project,2,94,4,,Natural Systems,,2012,,4,,2Bothin Marsh Project,,,,,1,,,,,,,,1,1,1
+2CalAdapt,2,97,4,,Multi-Regional,,2009,,7,,2CalAdapt,,,,,,,,,,,,,0,,0
+2CalBRACE (Building Resilience Against Climate Effects),2,95,4,,Health,,2012,,4,,2Cal-BRACE (Building Resilience Against Climate Effects),,1,,,,,,,,,,,9,1,9
+2CHARG Network,2,91,4,,Flooding,,2014,,2,,2CHARG Network,,1,,,,,,,,,,,9,1,9
+2Climate Action 2020 Plan,2,96,4,,Multi-Local,,2016,,0,,2Climate Action 2020 Plan,,1,,,,,,,,,,,9,1,9
+"2Climate Change, Conservation & Land Use: A Sonoma County Pilot Project ",2,94,4,,Natural Systems,,2012,,4,,"2Climate Change, Conservation & Land Use: A Sonoma County Pilot Project ",,,,,,,,,,,1,,1,1,1
+2Climate Ready Sonoma County: Climate Hazards and Vulnerabilities,2,96,4,,Multi-Local,,2014,,2,,2Climate Ready Sonoma County: Climate Hazards and Vulnerabilities,,,,,,,,,,,1,,1,1,1
+2Collaborating on Sea Level Rise: Marin Adaptation Response Team (CSMART),2,91,4,,Flooding,,2014,,2,,2Collaborating on Sea Level Rise: Marin Adaptation Response Team (C-SMART),,1,,,,,,,,,,,9,1,9
+2Contra Costa County ART Project,2,91,4,,Flooding,,2015,2016,1,,2Contra Costa County ART Project,,,,1,,,,,,,,,1,1,1
+2CRI Groundwater Research ,2,92,4,,Water,,2016,,0,,2CRI Groundwater Research ,,1,,,,,,,,,,,9,1,9
+2CRI Strategy Analysis,2,91,4,,Flooding,,2015,,1,,2CRI Strategy Analysis,,1,,,,,,,,,,,9,1,9
+2Delta Vision Strategic Plan,2,92,4,,Water,,2008,,8,,2Delta Vision Strategic Plan,,,,1,,,,,,1,,,2,1,2
+2East Bay Municipal Utility District (EBMUD) Water and Energy Projects,2,93,4,,Energy,,2011,,5,,2East Bay Municipal Utility District (EBMUD) Water and Energy Projects,,,1,,,,,,,,,,1,1,1
+2FEMA San Francisco Bay Area Coastal Study,2,91,4,,Flooding,,2014,,2,,2FEMA San Francisco Bay Area Coastal Study,,1,,,,,,,,,,,9,1,9
+2Flood Control 2.0 (Novato Creek),2,91,4,,Flooding,,2013,2016,3,,2Flood Control 2.0 (Novato Creek),,,,,1,,,,,,,,1,1,1
+2Flood Control 2.0 (San Francisquito Creek),2,91,4,,Flooding,,2013,2016,3,,2Flood Control 2.0 (San Francisquito Creek),,,,,,,,,1,,,,1,1,1
+2Foster City Sea Level Rise Levee Planning Project,2,91,4,,Flooding,,2014,,2,,2Foster City Sea Level Rise Levee Planning Project,,,,,,,,1,,,,,1,1,1
+2Future Proof Water: Where the Bay Area Should Get Its Water in 21st Century,2,92,4,,Water,,2013,,3,,2Future-Proof Water: Where the Bay Area Should Get Its Water in 21st Century,,1,,,,,,,,,,,9,1,9
+2Game of Floods,2,91,4,,Flooding,,2015,,1,,2Game of Floods,,,,,1,,,,,,,,1,1,1
+2Grid Alternatives Bay Area,2,93,4,,Energy,,2009,,7,,2Grid Alternatives Bay Area,,1,,,,,,,,,,,9,1,9
+2Guidance For Incorporating Sea Level Rise Into Capital Planning in San Francisco,2,91,4,,Flooding,,2014,,2,,2Guidance For Incorporating Sea Level Rise Into Capital Planning in San Francisco,,,,,,,1,,,,,,1,1,1
+2Hamilton Field Restoration Project,2,94,4,,Natural Systems,,1999,,17,,2Hamilton Field Restoration Project,,,,,1,,,,,,,,1,1,1
+2Hayward Area Shorelines Planning Agency Sea Level Rise Project,2,91,4,,Flooding,,2010,,6,,2Hayward Area Shorelines Planning Agency Sea Level Rise Project,,,1,,,,,,,,,,1,1,1
+2Hayward Shoreline Resilience Study,2,91,4,,Flooding,,2013,2014,3,,2Hayward Shoreline Resilience Study,,,1,,,,,,,,,,1,1,1
+2Head of Tide,2,91,4,,Flooding,,2014,2014,2,,2Head of Tide,,,1,1,1,1,,,1,,,,5,1,5
+2High Resolution Climate Hydrology Scenarios for the San Francisco Bay Area,2,91,4,,Flooding,,2013,,3,,2High Resolution Hydrology Scenarios for the SF Bay Area,,1,,,,,,,,,,,9,1,9
+2Innovative Wetland Adaptation Techniques Project,2,91,4,,Flooding,,2010,,6,,2Innovative Wetland Adaptation Techniques Project,,1,,,,,,,,,,,9,1,9
+2IRWMP Shoreline Resilience Program Overview and Proposal,2,97,4,,Multi-Regional,,2014,,2,,2IRWMP Shoreline Resilience Program Overview and Proposal,,,,,,,,,,,,,0,0,0
+2King Tides Initiative,2,91,4,,Flooding,,2010,,6,,2King Tides Initiative,,1,,,,,,,,,,,9,1,9
+2Local Clean Energy Alliance,2,93,4,,Energy,,2007,,9,,2Local Clean Energy Alliance,,1,,,,,,,,,,,9,1,9
+2Lower Walnut Creek Historical Ecology Study,2,96,4,,Multi-Local,,2015,,1,,,,,,,,,,,,,,,0,,0
+"2Mapping Climate Change Exposures, Vulnerabilities, and Adaptation to Public Health Risks ",2,95,4,,Health,,2012,2012,4,,"2Mapping Climate Change Exposures, Vulnerabilities, and Adaptation to Public Health Risks ",,1,,,,,,,,,,,9,1,9
+2Marin Bay Waterfront Adaptation Vulnerability Evaluation,2,96,4,,Multi-Local,,2015,,1,,2Marin Bay Waterfront Adaptation Vulnerability Evaluation,,,,,1,,,,,,,,1,1,1
+2Marin Clean Energy,2,93,4,,Energy,,2010,,6,,2Marin Clean Energy,,,,,1,,,,,,,,1,1,1
+2MTC BCDC FHWA Transportation Vulnerability Assessment Project ,2,91,4,,Flooding,,2010,2011,6,,2MTC BCDC FHWA Transportation Vulnerability Assessment Project ,,,,,,,,,,,,,0,0,0
+2Napa River Napa Creek Flood Protection Project,2,91,4,,Flooding,,1998,,18,,2Napa River Napa Creek Flood Protection Project,,,,,,1,,,,,,,1,1,1
+2North Bay Climate Adaptation Initiative,2,94,4,,Natural Systems,,2011,,5,,2North Bay Climate Adaptation Initiative,,,,,,,,,,,1,,1,1,1
+2North Bay Watershed Association,2,92,4,,Water,,2011,,5,,2North Bay Watershed Association,,,,,1,1,,,,,1,,3,1,3
+2Northern Alameda County _ San Francisco Bay Area Coastal Study,2,91,4,,Flooding,,2014,2015,2,,2Northern Alameda County _ San Francisco Bay Area Coastal Study,,,1,,,,,,,,,,1,1,1
+2Oakland Alameda Resilience Study,2,91,4,,Flooding,,2013,,3,,2Oakland Alameda Resilience Study,,,1,,,,,,,,,,1,1,1
+2Oakland Energy and Climate Action Plan,2,93,4,,Energy,,2012,,4,,2Oakland Energy and Climate Action Plan,,,1,,,,,,,,,,1,1,1
+2Ocean Beach Master Plan for Sea Level Rise ,2,91,4,,Flooding,,2010,,6,,2Ocean Beach Master Plan for Sea Level Rise ,,,,,,,1,,,,,,1,1,1
+2Operational Landscape Units,2,94,4,,Natural Systems,,2008,,8,,2Operational Landscape Units,1,,,,,,,,,,,,0,1,0
+2Oro Loma Ecotone Project,2,91,4,,Flooding,,2015,,1,,2Oro Loma Ecotone Project,,,,,,,,,1,,,,1,1,1
+2Our Bay on the Brink,2,97,4,,Multi-Regional,,2016,,0,,2Our Bay on the Brink,,1,,,,,,,,,,,9,1,9
+"2Our Coast, Our Future",2,91,4,,Flooding,,2011,,5,,"2Our Coast, Our Future",,1,,,,,,,,,,,9,1,9
+2Owlized Marin Sea Level Rise Project,2,91,4,,Flooding,,2015,,1,,2Owlized Marin Sea Level Rise Project,,,,,1,,,,,,,,1,1,1
+2Pinole General Plan Climate Adaptation ,2,96,4,,Multi-Local,,2006,,10,,2Pinole General Plan Climate Adaptation ,,,,1,,,,,,,,,1,1,1
+2Point Blue Climate Smart Conservation Program,2,94,4,,Natural Systems,,2013,,3,,2Point Blue Climate-Smart Conservation Program,1,,,,,,,,,,,,0,1,0
+2Policies for a Rising Bay,2,91,4,,Flooding,,2015,,1,,2Policies for a Rising Bay,1,,,,,,,,,,,,0,1,0
+2Port of San Francisco Sea Level Rise Study,2,91,4,,Flooding,,2012,,4,,2Port of San Francisco Sea Level Rise Study,,,,,,,1,,,,,,1,1,1
+2Reducing Climate Risks with Natural Infrastructure Report,2,97,4,,Multi-Regional,,2014,,2,,2Reducing Climate Risks with Natural Infrastructure Report,,1,,,,,,,,,,,9,1,9
+2Regional Climate Protection Authority,2,96,4,,Multi-Local,,2009,,7,,2Regional Climate Protection Authority,,1,,,,,,,,,,,9,1,9
+2Regional Renewable Energy Procurement Project (RREP),2,93,4,,Energy,,2013,,3,,2Regional Renewable Energy Procurement Project (R-REP),,1,,,,,,,,,,,9,1,9
+2Reports on the Third Climate Change Assessment,2,97,4,,Multi-Regional,,2012,,4,,2Reports on the Third Climate Change Assessment,,1,,,,,,,,,,,9,1,9
+2Resilience by Design,2,97,4,,Multi-Regional,,2015,,1,,2Bay Area Resilience By Design,,1,,,,,,,,,,,9,1,9
+2Resilient Communities Initiative,2,97,4,,Multi-Regional,,2013,,3,,2Resilient Communities Initiative,,1,,,,,,,,,,,9,1,9
+2Resilient San Francisco,2,96,4,,Multi-Local,,2016,,0,,2Resilient San Francisco,,,,,,,1,,,,,,1,1,1
+2RISeR SF BAY,2,97,4,,Multi-Regional,,2015,,1,,2RISeR SF BAY,,1,,,,,,,,,,,9,1,9
+2Rockefeller 100 Resilient Cities Challenge,2,96,4,,Multi-Local,,2015,,1,,2Rockefeller 100 Resilient Cities Challenge,,,1,,,,1,,,,,,2,1,2
+2San Francisco Bay Living Shorelines,2,91,4,,Flooding,,2012,,4,,2 San Francisco Bay Living Shorelines,,,,,,,1,,,,,,1,1,1
+2San Francisco Central Bay Regional Sediment Management Plan,2,91,4,,Flooding,,2008,,8,,2San Francisco Central Bay Regional Sediment Management Plan,,,,,,,1,1,,,,,2,1,2
+2San Francisco Climate Ready Initiative,2,95,4,,Health,,2010,,6,,2San Francisco Climate Ready Initiative,,,,,,,1,,,,,,1,1,1
+2San Francisco Estuary Partnership,2,91,4,,Flooding,,1991,,25,,2San Francisco Estuary Partnership,,1,,,,,,,,,,,9,1,9
+2San Francisco Estuary Partnership Climate Ready Estuaries Pilot Project,2,94,4,,Natural Systems,,2009,,7,,2San Francisco Estuary Partnership Climate Ready Estuaries Pilot Project,,1,,,,,,,,,,,9,1,9
+2San Francisco Sea Level Rise Action Plan,2,91,4,,Flooding,,2015,,1,,2San Francisco Sea Level Rise Action Plan,,,,,,,1,,,,,,1,1,1
+2San Mateo County Climate Action Plan: Vulnerability Assessment,2,96,4,,Multi-Local,,2011,,5,,2San Mateo County Climate Action Plan: Vulnerability Assessment,,,,,,,,1,,,,,1,1,1
+2San Mateo County Regionally Integrated Climate Action Planning Suite ,2,96,4,,Multi-Local,,2010,,6,,2San Mateo County Regionally Integrated Climate Action Planning Suite ,,,,,,,,1,,,,,1,1,1
+2San Mateo County Sea Level Rise Vulnerability Assessment,2,91,4,,Flooding,,2015,,1,,2San Mateo County Sea Level Rise Vulnerability Assessment,,,,,,,,1,,,,,1,1,1
+2Save the Redwoods Climate Change Initiative,2,94,4,,Natural Systems,,2013,,3,,2Save the Redwoods Climate Change Initiative,,1,,,,,,,,,,,9,1,9
+2Scenario Planning for Climate Change Adaptation: A Guidance for Resource Managers (2013),2,94,4,,Natural Systems,,2013,,3,,2Scenario Planning for Climate Change Adaptation: A Guidance for Resource Managers (2013),,1,,,,,,,,,,,9,1,9
+2Sea Change San Mateo County,2,96,4,,Multi-Local,,2013,,3,,2Sea Change San Mateo County,,,,,,,,1,,,,,1,1,1
+2SF Bay Restoration Authority Parcel Tax (Measure AA),2,97,4,,Multi-Regional,,2016,,0,,2SF Bay Restoration Authority Parcel Tax (Measure AA),,1,,,,,,,,,,,9,1,9
+2SF Baylands Restoration and Flood Protection Project,2,91,4,,Flooding,,2012,,4,,2SF Baylands Restoration and Flood Protection Project,,1,,,,,,,,,,,9,1,9
+2SF Mission Bay Vulnerability Assessment,2,91,4,,Flooding,,2013,,3,,2SF Mission Bay Vulnerability Assessment,,,,,,,1,,,,,,1,1,1
+"2SFO, San Bruno and Colma Creek Resilience Study",2,91,4,,Flooding,,2015,,1,,"2SFO, San Bruno and Colma Creek Resilience Study",,,,,,,,1,,,,,1,1,1
+2SFPUC Study: Upper Tuolumne River Flow & Climate Change Scenarios ,2,92,4,,Water,,2012,,4,,2SFPUC Study: Upper Tuolumne River Flow & Climate Change Scenarios ,1,,,,,,,,,,,,0,1,0
+2Shore Up Marin,2,96,4,,Multi-Local,,2016,,0,,2Shore Up Marin,,,,,1,,,,,,,,1,1,1
+2Silicon Valley 2.0,2,96,4,,Multi-Local,,2013,,3,,2Silicon Valley 2.0,,,,,,,,,1,,,,1,1,1
+2Sonoma Clean Power,2,93,4,,Energy,,2012,,4,,2Sonoma Clean Power,,,,,,,,,,,1,,1,1,1
+2Sonoma County Veg Map,2,94,4,,Natural Systems,,2012,,4,,2Sonoma County Veg Map,,,,,,,,,,,1,,1,1,1
+2South Bay Salt Pond Restoration Project,2,91,4,,Flooding,,2003,,13,,2South Bay Salt Pond Restoration Project,,,,,,,,,1,,,,1,1,1
+2South San Francisco Bay Shoreline Study,2,91,4,,Flooding,,2016,,0,,2South San Francisco Bay Shoreline Study,,,,,,,,,1,,,,1,1,1
+2Southern Marin Pilot Project,2,96,4,,Multi-Local,,2008,,8,,2Southern Marin Pilot Project,,,,,1,,,,,,,,1,1,1
+2State of the Estuary Report 2015,2,94,4,,Natural Systems,,2015,,1,,2State of the Estuary Report 2015,,1,,,,,,,,,,,9,1,9
+2State Route 37 Stewardship Study ,2,91,4,,Flooding,,2011,,5,,2State Route 37 Stewardship Study ,,,,,1,,,,,1,,,2,1,2
+"2Suisun Marsh Habitat Management, Preservation and Restoration",2,91,4,,Flooding,,2014,,2,,"2Suisun Marsh Habitat Management, Preservation and Restoration",,,,,,,,,,1,,,1,1,1
+2Surviving the Storm,2,91,4,,Flooding,,2015,,1,,2Surviving the Storm,,1,,,,,,,,,,,9,1,9
+2Terrestrial Biodiversity Climate Change Consortium,2,94,4,,Natural Systems,,2010,,6,,2Terrestrial Biodiversity Climate Change Consortium,,1,,,,,,,,,,,9,1,9
+2The Horizontal Levee,2,91,4,,Flooding,,2013,,3,,2The Horizontal Levee,,,1,,,,,,,,,,1,1,1

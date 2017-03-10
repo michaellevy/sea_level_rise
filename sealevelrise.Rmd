@@ -1,0 +1,141 @@
+---
+title: "Sea-Level Rise Management Network"
+author: "Center for Environmental Policy and Behavior, UC Davis"
+output: html_document
+---
+
+This a network of organizations working on projects to address sea-level rise. There are two types of nodes: projects and organizations. Organizations are connected to the projects in which they participate. You can examine a project's participants using the first dropdown menu by selecting by id. You can also look at which projects and organizations work in a particular county using the second dropdown menu. 
+
+Try zooming in on part of the graph and clicking on a project or organization.
+
+```{r setup, include=FALSE}
+# Some options:
+visColors = c(org = "dodgerblue", proj = "firebrick")
+shadows = FALSE   # They maybe look cool but significantly slow performance
+
+library(tidyverse)
+library(stringr)
+library(visNetwork)
+library(igraph)
+edges <- read_csv("data/EdgelistIn.csv")
+nodes <- read_csv("data/Attributes.csv")
+
+# at$Entity has "1" or "2" prepended based on type. Remove that and rename "id"
+nodes = nodes %>%
+  mutate(Entity = str_sub(Entity, 2)) %>%
+  rename(id = Entity)
+
+edges = edges %>%
+  rename(from = Org, to = Proj)
+
+# Temporary subset to make rendering faster
+# projtmp = head(unique(edges$to))
+# edges = filter(edges, to %in% projtmp)
+# nodes = filter(nodes, id %in% unique(c(projtmp, edges$from)))
+
+# Get counties in single column, comma-separated format for visOptions
+# Pull out the county columns, look for "1" entries, and replace with colnames
+counties = select(nodes, Alameda:`Online Only`) 
+presence = which(counties == 1, arr.ind = TRUE)
+counties[presence] = colnames(counties)[presence[, 2]]
+# Collapse non-empty columns with comma separator
+nodes$County = apply(counties, 1, function(x) paste(x[!is.na(x)], collapse = ", "))
+
+# Make column names that visNetwork uses
+nodes = nodes %>%
+  mutate(label = id,
+         title = id,
+         color = visColors[BiType],
+         shape = c("box", "diamond")[BiType]
+  )
+
+### Remove energy projects
+# find energy projects by Type.Name
+energyProj = unique(nodes$id[nodes$Type.Name == "Energy"])  
+# Find orgs working on energy projects
+energyOrgs = unique(edges$from[edges$to %in% energyProj])  
+# Filter edges to exclude energy projects
+edges = filter(edges, !to %in% energyProj)
+# See which energy-orgs are no longer in the edgelist...
+energyOnlyOrgs = unique(energyOrgs[!energyOrgs %in% edges$from])
+# remove those and energy projects from nodes
+nodes = filter(nodes, !id %in% c(energyOnlyOrgs, energyProj))
+
+# Add degree to node DF to size icons
+nodes = 
+  as.data.frame(table(unlist(edges))) %>%
+  rename(id = Var1, degree = Freq) %>%
+  left_join(nodes, ., by = "id")
+nodes$value = nodes$degree 
+nodes$value[nodes$BiType == 1] = 1  # Doesn't do anything because "box" doesn't take a size.
+
+# Prepend "Project" or "Organization" to names for select-by drop-down.
+# Wasn't able to get this working (in visOptions). 
+# Instead let user select only projects (not orgs), by "id"
+# nodes$menuLabel = paste0(ifelse(nodes$BiType == 1, "Organization: ", "Project: "), nodes$id)
+
+# Get layout coordinates and append to nodes DF to speed initial layout
+# g = graph_from_data_frame(edges, FALSE, nodes)
+# coords = layout_nicely(g)
+# colnames(coords) = c("x", "y")
+# nodes = cbind(nodes, coords)
+
+
+```
+
+```{r output, echo = FALSE, fig.height = 9, fig.width = 10}
+# Render the network
+visNetwork(nodes, edges) %>%
+  visNodes(shadow = shadows) %>%
+  visEdges(shadow = shadows
+           , color = "gray"
+           , selectionWidth = 3
+           # , smooth = FALSE   # FALSE is faster but TRUE gives nicely curved edges. Doesn't apply for igraph layout
+  ) %>%
+  visOptions(
+    # Enable select by county
+    selectedBy = list(variable = "County", multiple = TRUE)
+    # Enable select by ID and highlight associated orgs/projects
+    , nodesIdSelection = list(enabled = TRUE 
+                              , values = nodes$id[nodes$BiType == 2] # values = "menuLabel" doesn't work
+                              )
+    , highlightNearest = list(enabled = TRUE, degree = 1, hover = TRUE)
+  ) %>%
+  visLegend(addNodes = list(
+    list(label = "Organization", shape = "box", color = visColors[[1]]),
+    list(label = "Project", shape = "diamond", color = visColors[[2]])),
+    useGroups = FALSE,
+    position = "right",
+    width = .1) %>%
+  # Static igraph layout:
+  # visIgraphLayout(smooth = FALSE, physics = FALSE, type = "full", randomSeed = 95616)
+  # Dynamic igraph layout. Doesn't equilibrate:
+  # visIgraphLayout(smooth = TRUE, physics = TRUE, type = "full",
+  #                 layout = "layout_nicely")
+  # Physics simulation dynamic. Equilibrates layout in ~40s w/ vel = 30/15
+  visPhysics(stabilization = FALSE
+             # , maxVelocity = 30
+             , minVelocity = 15
+             , solver = "repulsion"
+             # , repulsion = list(
+             #   springLength = 250
+             #   , springConstant = .1
+             #   , centralGravity = .15
+             #   # , nodeDistance = 75
+             # )
+             # , solver = "barnesHut"
+             # , barnesHut = list(gravitationalConstant = -1e3
+             #                    , centralGravity = .2
+             #                    , springConstant = .1
+             #                    , springLength = 200)
+             ) %>%
+  visEvents(type = "once", startStabilizing = "function() {
+            this.moveTo({scale:.3})}") 
+  # Nearly equil w defaults at 30"
+  # visPhysics(stabilization = FALSE
+  #            , solver = "forceAtlas2Based"
+  #            , minVelocity = 5
+  #            , maxVelocity = 30
+  # )
+```
+
